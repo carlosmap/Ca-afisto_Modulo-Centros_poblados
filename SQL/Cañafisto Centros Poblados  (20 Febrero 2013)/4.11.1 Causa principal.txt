@@ -1,0 +1,287 @@
+0001	,	BO338005000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0012	,	BO407017000	,	00	,	04	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0016	,	BO407009000	,	00	,	00	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0049	,	BO643023000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0053	,	BO640001006	,	06	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0059	,	BO641021000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+0061	,	BO641001000	,	00	,	00	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0061	,	BO641001000	,	00	,	00	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0065	,	BO639031000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0070	,	BO201001005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0070	,	BO201001005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0075	,	BO203002001	,	01	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0087	,	BO148999037	,	37	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+0095	,	BO148999050	,	50	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+0098	,	BO148999014	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0107	,	CO600990001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0132	,	CO600969000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0132	,	CO600969000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0136	,	CO600532001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0136	,	CO600532001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0141	,	CO600994003	,	03	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0147	,	CO600532009	,	09	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0147	,	CO600532009	,	09	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0156	,	CO600991005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0164	,	CO600532011	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0171	,	PE304006000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0171	,	PE304006000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0173	,	FR300214006	,	06	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0176	,	FR300214005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0176	,	FR300214005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0176	,	FR300214005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0177	,	FR300214008	,	08	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0177	,	FR300214008	,	08	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0177	,	FR300214008	,	08	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0177	,	FR300214008	,	08	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+0178	,	FR300214004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0178	,	FR300214004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0182	,	FR300214007	,	07	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0182	,	FR300214007	,	07	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0182	,	FR300214007	,	07	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0182	,	FR300214007	,	07	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0188	,	FR300225004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0192	,	FR300224012	,	12	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	6. Salud	,	M
+0195	,	FR300210002	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	6. Salud	,	M
+0210	,	FR300223009	,	09	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0214	,	FR300242003	,	03	,	07	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0215	,	FR300223013	,	13	,	13	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0215	,	FR300223013	,	13	,	13	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+0217	,	FR300101000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0217	,	FR300101000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0218	,	FR300242003	,	03	,	11	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0220	,	FR300222003	,	03	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0227	,	FR300242003	,	05	,	05	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0247	,	FR300224027	,	27	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0248	,	FR300224040	,	40	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0250	,	FR300224061	,	61	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0254	,	FR300224001	,	01	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0256	,	FR300224049	,	49	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+0257	,	FR300224058	,	58	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0268	,	PE405015002	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0275	,	FR300224052	,	52	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0276	,	FR300224087	,	87	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0276	,	FR300224087	,	87	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0292	,	FR300224001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0293	,	FR300224004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0294	,	FR300224004	,	04	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	3. Seguridad	,	M
+0294	,	FR300224004	,	04	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	3. Seguridad	,	F
+0298	,	FR300224077	,	77	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0304	,	FR300281003	,	03	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0306	,	FR300281003	,	03	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0306	,	FR300281003	,	03	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0313	,	PE300224032	,	32	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0313	,	PE300224032	,	32	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0320	,	FR300224059	,	59	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0321	,	FR300224073	,	73	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0321	,	FR300224073	,	73	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0331	,	CO600539005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0347	,	CO700561000	,	07	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0351	,	CO500527018	,	18	,	13	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0353	,	CO600971000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0365	,	CO600532016	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0368	,	CO600532027	,	27	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0368	,	CO600532027	,	27	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0385	,	BO407011000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+0386	,	BO407009000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0386	,	BO407009000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+0402	,	BO410001000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0409	,	BO148999027	,	21	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0409	,	BO148999027	,	21	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+0423	,	BO148999046	,	46	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0425	,	BO201001000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+0448	,	BO639052008	,	08	,	02	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+0449	,	BO641005000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0456	,	BO639042000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0456	,	BO639042000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0482	,	BO148999063	,	63	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0483	,	BO203003004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0497	,	BO639032000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0501	,	BO639033000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0501	,	BO639033000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0502	,	BO639023000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0502	,	BO639023000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+0509	,	BO693038000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0527	,	FR300224097	,	97	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0527	,	FR300224097	,	97	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0536	,	FR300224083	,	83	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0547	,	FR300224102	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0563	,	BO639052000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0579	,	BO148999072	,	72	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	3. Seguridad	,	M
+0579	,	BO148999072	,	72	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	3. Seguridad	,	F
+0584	,	BO410002000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0589	,	BO639018000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0618	,	BO643009000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0633	,	BO417002000	,	00	,	00	,	00	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0638	,	BO520004014	,	14	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0643	,	BO520004008	,	08	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0671	,	BO205003003	,	03	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0671	,	BO205003003	,	03	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0681	,	BO747001016	,	16	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0684	,	BO737003004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0684	,	BO737003004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0685	,	BO148999068	,	68	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0686	,	BO747001032	,	32	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0691	,	BO730003000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0718	,	BO611001000	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0719	,	BO643052000	,	03	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0734	,	BO613008000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0756	,	BO849042000	,	19	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0760	,	BO725007000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0763	,	BO730006000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0763	,	BO730006000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0766	,	BO611001000	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0766	,	BO611001000	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0777	,	FR300242003	,	03	,	01	,	03	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0791	,	B0206010000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0793	,	BO203003005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0802	,	CO600942000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0805	,	CO500527005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+0805	,	CO500527005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	F
+0805	,	CO500527005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0815	,	CO700558000	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0820	,	BO639028000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0835	,	BO639007000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+0835	,	BO639007000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0836	,	BO639007000	,	00	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0838	,	BO639052000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+0856	,	BO201001013	,	13	,	02	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0864	,	BO203002006	,	06	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0889	,	FR300224110	,	10	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0889	,	FR300224110	,	10	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0893	,	FR300224087	,	87	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0893	,	FR300224087	,	87	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+0907	,	FR300224066	,	66	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0907	,	FR300224066	,	66	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+0929	,	CO500527009	,	09	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+0941	,	CO600961000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0947	,	CO500525006	,	06	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+0952	,	BO417007000	,	00	,	00	,	00	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0964	,	BO622014000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	6. Salud	,	M
+0989	,	BO520004007	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+0989	,	BO520004007	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1000	,	BO520004011	,	11	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+1222	,	BO726004000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	6. Salud	,	M
+1226	,	BO728010000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+1229	,	BO728022000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1229	,	BO728022000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1327	,	BO728013000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+1336	,	BO734003000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+1336	,	BO734003000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1336	,	BO734003000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1338	,	BO724004000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+1430	,	BO148999029	,	29	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+1437	,	BO725008000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+1465	,	BO726001000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+1465	,	BO726001000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+1496	,	BO747001004	,	04	,	02	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+1497	,	BO747001004	,	04	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+1517	,	BO737001013	,	13	,	13	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+1517	,	BO737001013	,	13	,	13	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+1526	,	BO737003005	,	05	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+1526	,	BO737003005	,	05	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+1535	,	BO747001009	,	09	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+1541	,	BO723005000	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+1542	,	BO725017000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+1542	,	BO725017000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1547	,	BO723002000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+1557	,	BO725021000	,	00	,	02	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1558	,	BO725021000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1588	,	PE102015000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1599	,	PE405015001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+1801	,	BE100062026	,	26	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1822	,	BE100062019	,	19	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1823	,	BE100049003	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+1824	,	BE100062029	,	29	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1833	,	BE100062007	,	07	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1833	,	BE100062007	,	07	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1948	,	BE100062032	,	32	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1958	,	BE100062022	,	22	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+1963	,	CO100506003	,	03	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+1969	,	CO100011001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	6. Salud	,	F
+1982	,	BE100049002	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+1997	,	BE100062025	,	25	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1998	,	BE100079000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+1998	,	BE100079000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2000	,	BE100073000	,	00	,	05	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2211	,	BO725007000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2238	,	BO849042000	,	26	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2258	,	BO849042000	,	41	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2262	,	BO849904200	,	23	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2262	,	BO849904200	,	23	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+2265	,	BO612001000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2267	,	BO849042000	,	40	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2275	,	BO639034000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2297	,	BO521002000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+2302	,	BO643002000	,	00	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2306	,	BO373003005	,	05	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2309	,	BO725022000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2322	,	BO643010000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2328	,	BO747001013	,	13	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2339	,	BO204016000	,	00	,	04	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2348	,	BO737001011	,	11	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2348	,	BO737001011	,	11	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2352	,	BO747001020	,	20	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+2376	,	BO521004000	,	00	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+2391	,	BO521010000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+2412	,	PE203022000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+2424	,	PE304014000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2424	,	PE304014000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2425	,	PE203007000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2425	,	PE203007000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2429	,	PE503034000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2429	,	PE503034000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2434	,	PE304035000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2437	,	PE304016000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+2441	,	PE102023000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	6. Salud	,	F
+2452	,	PE503025000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2453	,	PE503064000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2456	,	PE304025000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+2456	,	PE304025000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2456	,	PE304025000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+2466	,	PE503069000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2466	,	PE503069000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+2469	,	PE304045000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2469	,	PE304045000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2471	,	PE503058000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2481	,	PE102008000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2486	,	PE304022000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2498	,	PE304017000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2501	,	PE405010000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+2513	,	PE503067001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2514	,	PE102017000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2525	,	PE503039000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+2529	,	PE405005000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2530	,	PE503029000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+2535	,	PE503035000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2538	,	PE405016002	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2549	,	PE102007000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2549	,	PE102007000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2554	,	PE506008002	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2554	,	PE506008002	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+2557	,	PE102014000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2559	,	PE503059000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2571	,	PE503032000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2571	,	PE503032000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+2571	,	PE503032000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2578	,	PE503034000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2580	,	PE503027001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	4. Servicio militar	,	M
+2580	,	PE503027001	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2583	,	PE503030000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2584	,	PE503033000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+2584	,	PE503033000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+2584	,	PE503033000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	M
+2584	,	PE503033000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2586	,	PE405008000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+2586	,	PE405008000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2595	,	PE405002000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	M
+2596	,	PE506001002	,	02	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	2. Trabajo	,	F
+2598	,	PE304026000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+2598	,	PE304026000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	F
+2640	,	BO727001000	,	01	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2645	,	PE102017000	,	00	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2648	,	BO727008000	,	00	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	5. Conformó otro hogar	,	F
+2659	,	BO747001007	,	07	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	1. Estudio	,	M
+2661	,	BO727003001	,	01	,	02	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2707	,	PE304030000	,	00	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	M
+2707	,	PE304030000	,	00	,	01	,	02	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F
+2752	,	BO747001021	,	21	,	01	,	01	,	4.11 ¿Cuantas personas que eran miembros de este hogar se fueron en los últimos 12 meses? Causa Principal	,	7. Otro	,	F

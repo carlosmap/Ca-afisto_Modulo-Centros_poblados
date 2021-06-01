@@ -1,0 +1,507 @@
+0041,CO600991002,02,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0068,BO148999001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0071,BO148999000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0072,BO148999021,21,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0073,BO148999035,35,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0074,BO148999048,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0076,BO148999008,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0077,BO148999024,24,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0078,BO148999039,39,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0079,BO148999043,43,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0080,BO148999009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0081,BO148999041,41,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0082,BO148999017,17,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0083,BO148999038,38,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0086,BO148999051,51,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0087,BO148999037,37,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0088,bo148999004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0089,BO148999007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0092,BO148999002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0095,BO148999050,50,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0096,BO148999040,40,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0097,BO148999023,23,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0098,BO148999014,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0099,BO148999042,42,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0100,BO148999026,26,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0101,CO600967001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0102,CO500529003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0103,CO600990004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0104,CO600532005,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0105,CO600990003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0107,CO600990001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0108,CO600954000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0109,CO600941000,00,03,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0110,CO600965002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0111,CO600967002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0112,CO600984000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0113,CO600990006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0114,CO600996000,00,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0116,CO600532025,25,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0117,CO600970000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0118,CO600958000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0119,CO600990002,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0120,CO600974000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0121,CO600532002,02,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0122,CO600990008,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0123,CO600941000,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0124,CO600946000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0125,CO600985000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0126,CO600980000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0127,CO600953000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0128,CO600994002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0131,CO600939000,00,11,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0136,CO600532001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0138,CO600938002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0140,CO600996000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0141,CO600994003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0142,CO600966002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0143,CO600988000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0144,CO600987000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0146,CO600983000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0147,CO600532009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0148,CO600949000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0149,CO600965001,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0150,CO700562000,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0151,CO600966001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0152,CO600532004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0153,CO600532007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0155,CO600975000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0157,CO600956000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0159,CO600532012,12,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0160,CO600991007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0161,CO600532008,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0163,CO600532010,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0164,CO600532011,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0165,CO600539001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0167,FR300224013,13,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0168,FR300224024,24,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0169,FR300224069,69,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0170,FR300214001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0173,FR300214006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0177,FR300214008,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0179,FR300224089,89,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0183,FR300214001,01,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0185,FR300224065,65,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0186,FR300224089,89,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0188,FR300225004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0190,FR300282002,02,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0191,FR300214000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0197,FR300279000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0198,FR300280000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0209,FR300242002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0210,FR300223009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0211,FR300223012,12,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0214,FR300242003,03,07,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0223,FR300223017,17,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0226,FR300224003,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0227,FR300242003,05,05,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0228,FR300242003,00,15,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0229,FR300242003,03,09,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0232,FR300224050,50,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0233,FR300224006,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0235,FR300224029,29,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0236,PE300224029,29,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0241,FR300224006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0245,FR300224055,55,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0246,FR300224010,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0247,FR300224027,27,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0248,FR300224040,40,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0249,FR300224063,63,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0250,FR300224061,61,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0252,FR300224026,26,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0258,FR300224002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0259,FR300224021,21,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0264,FR300225003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0265,FR300225010,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0269,FR300224045,45,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0270,FR300224070,70,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0272,FR300224044,44,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0273,FR300224043,43,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0276,FR300224087,87,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0277,FR300223002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0278,FR300224098,98,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0279,FR300225006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0280,FR300225007,07,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0285,FR300223020,20,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0287,FR300224051,51,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0293,FR300224004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0294,FR300224004,04,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0295,FR300224041,41,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0296,FR300224072,72,01,03,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0297,FR300224037,37,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0298,FR300224077,77,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0299,FR300224104,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0300,FR300224057,57,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0301,FR300282002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0304,FR300281003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0305,FR300224044,44,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0306,FR300281003,03,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0307,FR300223021,21,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0308,FR300224022,22,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0311,FR300224020,20,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0312,FR300224072,72,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0314,FR300224097,97,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0315,FR300224016,16,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0316,FR300224034,34,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0317,FR300224016,16,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0318,FR300224035,35,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0322,FR300224056,56,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0323,FR300224071,71,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0324,FR300224106,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0325,FR300224091,91,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0327,FR300224075,75,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0331,CO600539005,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0334,CO600532028,28,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0335,CO600532020,20,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0336,CO600532024,24,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0338,CO700550004,00,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0339,CO500528002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0340,CO700550004,00,05,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0341,CO500529002,00,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0342,CO500527002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0345,CO600982000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0346,CO500525012,12,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0347,CO700561000,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0348,CO700550004,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0349,CO700550004,00,05,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0350,FR300225009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0351,CO500527018,18,13,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0353,CO600971000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0354,CO700550004,00,04,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0355,CO500529001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0356,CO600992000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0358,CO600532013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0359,CO500529002,00,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0361,CO600532023,23,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0362,CO600532019,19,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0363,CO600532029,29,02,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0364,CO600532015,15,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0365,CO600532016,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0366,CO700550004,00,02,03,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0367,CO700553000,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0368,CO600532027,27,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0369,CO500529002,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0370,CO600532018,18,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0371,CO600532017,17,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0372,CO500525005,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0375,CO300518001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0376,CO600991004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0377,CO600991003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0379,BE100062034,34,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0380,CO500525007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0405,BO148999033,33,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0406,BO148999036,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0407,BO148999003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0409,BO148999027,21,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0410,BO148999032,32,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0413,BO201001012,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0414,BO148999022,22,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0416,BO148999044,44,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0417,BO148999052,52,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0418,BO201001006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0419,BO148999020,20,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0420,BO148999028,28,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0423,BO148999046,46,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0424,BO148999046,46,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0425,BO201001000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0427,BO148999053,53,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0428,BO148999076,76,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0451,BO148999011,11,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0453,BO148999018,18,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0454,BO201001003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0455,BO201001010,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0474,BO201001007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0476,BO148999049,49,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0477,BO148999069,69,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0479,BO148999070,70,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0480,BO148999070,70,01,03,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0481,bo148999047,17,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0482,BO148999063,63,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0483,BO203003004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0484,BO148999073,73,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0485,BO148999078,78,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0486,BO148999064,64,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0527,FR300224097,97,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0528,FR300224076,76,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0529,FR300224100,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0530,FR300224101,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0531,FR300224113,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0538,FR300224109,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0541,FR300224080,80,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0544,FR300225011,11,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0545,FR300334084,84,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0547,FR300224102,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0550,BO407013000,00,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0553,BO410002000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0556,BO148999055,55,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0557,BO148999054,54,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0564,BO148999057,57,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0565,BO148999065,65,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0567,BO148999070,70,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0569,BO148999058,58,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0570,BO148999066,66,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0571,BO148999075,75,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0572,BO201001002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0574,BO148999059,59,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0575,BO148999077,77,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0576,BO148999039,39,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0578,BO148999045,45,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0602,FR300224074,74,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0603,FR300224114,14,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0604,FR300224013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0605,FR300224018,18,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0607,FR300224079,79,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0608,FR300221005,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0644,BO516002000,00,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0661,BO747001000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0662,BO206004001,01,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0665,BO747001019,19,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0672,BO203001009,09,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0673,BO148999018,18,03,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0674,BO205001002,02,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0682,BO203002002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0683,BO747001014,14,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0684,BO737003004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0701,BO203001009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0703,BO203003003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0704,BO203002008,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0708,BO203002013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0710,BO203002012,12,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0713,BO612005000,03,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0728,BO613004000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0776,FR300224047,47,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0778,FR300224092,92,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0779,FR300224107,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0781,CO500527004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0782,CO500525009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0783,CO500525015,15,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0784,CO500525013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0785,CO700556000,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0786,CO500525010,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0787,CO500525001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0790,CO500525014,14,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0793,BO203003005,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0801,CO600957000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0802,CO600942000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0803,CO500525006,06,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0805,CO500527005,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0806,CO500252011,11,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0807,CO500522001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0810,BE100013000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0811,CO300518002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0813,CO500527013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0814,CO500527015,15,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0846,BO203002014,14,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0853,BO203002015,15,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0854,BO148999034,34,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0855,BO206062000,00,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0856,BO201001013,13,02,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0858,BO148999018,18,02,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0863,BO203001005,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0864,BO203002006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0865,BO206002000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0866,BO203003001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0869,BO201001013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0870,BO203002011,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0871,BO203002003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0880,FR300224078,78,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0882,FR300224108,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0883,FR300225006,06,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0884,FR300224112,12,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0886,FR300225008,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0887,PE304002002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0888,FR300224095,95,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0893,FR300224087,87,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0894,FR300225013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+0895,FR300225007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0902,FR300224015,15,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0903,FR300224015,15,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0905,FR300224023,23,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0907,FR300224066,66,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0908,FR300224062,62,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0919,PE503044000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0922,FR300224007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0923,FR300224006,60,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0925,CO500527006,06,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0926,CO500525004,04,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0929,CO500527009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0930,CO600968000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0931,CO500527001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0932,CO500527014,14,14,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0933,CO700550004,00,04,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0934,CO500527003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0935,CO700560001,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0936,BE100062005,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0937,be100062001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0939,FR300224085,85,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+0940,CO600994004,04,04,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0941,CO600961000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0942,CO600962000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0943,CO600990009,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0944,CO600941000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0945,CO500522002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0946,CO500525002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0947,CO500525006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+0948,CO500525005,05,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+0949,CO500525013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1205,CO600976000,00,11,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1210,CO100506002,02,12,11,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1294,BO747001024,24,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1338,BO724004000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1430,BO148999029,29,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1433,BO737003003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1434,BO737001019,19,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1435,BO747001015,15,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1457,BO737001020,20,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1458,BO747001011,11,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1496,BO747001004,04,02,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1504,BO747001011,11,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1511,BO737001009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1514,BO737003002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1516,BO203002007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1518,BO737003001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1523,BO747001017,17,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1526,BO737003005,05,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1527,BO747001035,35,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1528,BO737001018,18,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1529,BO206004001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1532,BO203001003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1534,BO747001023,23,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1535,BO747001009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1537,BO747001001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1538,BO737001007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1540,BO747001011,11,01,03,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+1589,PE102015001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1598,PE203013000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1801,BE100062026,26,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1802,BE100073000,00,06,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1803,BE100004001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1804,BE100073000,00,04,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1816,BE100062016,16,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1819,BE100062028,28,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1820,BE100062036,36,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1821,BE100062020,20,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1822,BE100062019,19,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1823,BE100049003,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1824,BE100062029,29,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1826,BE100062017,17,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1827,BE100016000,00,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1829,BE100015000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1830,BE100062008,08,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1832,BE100062014,14,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1833,BE100062007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1834,BE100027000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1835,BE100062031,31,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1843,CO600935000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1857,CO600991009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1861,CO500525008,08,88,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1864,CO500528003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1878,CO700557000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1880,CO600991006,01,11,11,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1882,CO600986000,00,11,11,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1884,CO700557000,00,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1888,CO300517001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1889,CO300517003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1890,CO600537000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1893,CO500527010,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1894,CO700555000,03,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1901,BE100062007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1902,BE100062009,09,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1903,CO700559000,05,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1904,CO600972000,00,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1909,BE100019000,00,03,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1912,BE100024000,00,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1916,CO300515002,02,33,11,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1918,CO600998000,00,02,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1931,BE100062002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1948,BE100062032,32,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1951,BE100073000,00,02,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1953,BE100062006,06,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1954,BE100062003,03,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1955,BE100062035,35,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1956,BE100062023,23,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1957,BE100062024,24,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1958,BE100062022,22,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1959,BE100062021,21,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1960,BE100062033,33,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1962,CO600998000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1963,CO100506003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1964,CO100503000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1967,BE100073000,00,03,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+1968,BE100073000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1969,CO100011001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1970,BE100033002,02,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1971,BE100019000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1972,CO600532002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1974,CO300516001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1976,BE100062013,13,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1977,be100062004,04,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1978,BE100062015,15,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1979,BE100062010,10,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1980,BE100062012,12,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1982,BE100049002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1984,CO300519000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1987,CO300517002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1988,BE100049001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1989,CO500522003,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1990,CO300515001,01,02,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1991,BE100062030,03,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1994,BE100006002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1995,BE100006001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+1996,BE100062027,27,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1997,BE100062025,25,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+1998,BE100079000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2000,BE100073000,00,05,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2258,BO849042000,41,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2267,BO849042000,40,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2268,BO849042000,40,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2323,BO612005000,04,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+2340,BO203003006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+2344,BO204016000,00,25,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2345,BO204016000,00,24,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2348,BO737001011,11,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2349,BO747001031,31,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2368,BO737001006,06,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2427,PE503050000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2436,PE304041000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2437,PE304016000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2438,PE304018000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2503,PE405017000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2504,PE506005000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+2507,PE304032000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2508,PE405003000,00,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2509,PE405012001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2510,PE506001001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2512,PE503031001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2515,PE405007000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2528,PE405001000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2531,PE506003000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2535,PE503035000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2538,PE405016002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2539,PE405012002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2540,PE506008001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2541,PE405003000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2542,PE503049000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2546,PE304015000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2554,PE506008002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2561,PE503057000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,3. Pozo séptico
+2562,PE503002600,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2563,PE503066001,01,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2564,PE503048000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2565,PE503045000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2577,PE405004000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2578,PE503034000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2579,PE503066000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2596,PE506001002,02,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2598,PE304026000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2599,PE102012001,01,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2600,PE102024000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2639,BO747001022,22,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas
+2649,BO747001031,31,01,02,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2651,BO737003001,01,01,04,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2653,BO737003001,01,01,03,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2659,BO747001007,07,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2698,CO600532014,00,00,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+2701,PE503027000,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,4. Tubo que desemboca al río
+2799,CO600938001,01,01,00,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,1. A campo abierto
+9999999999,FG123321234,00,01,01,3.2 Si no posee alcantarillado, ¿cuál es el método de menejo de las aguas residuales?,2. Recolección en acequias o cunetas

@@ -1,0 +1,371 @@
+0012	,	BO407017000	,	00	,	04	,	01	,	2.7.3 Familiar	,	5. Otro
+0020	,	BO338008000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0035	,	BO641012000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0046	,	BO643023000	,	00	,	01	,	02	,	2.7.3 Familiar	,	1. Cónyuge
+0051	,	BO642004000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0054	,	BO642002000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0060	,	BO643022000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0061	,	BO641001000	,	00	,	00	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0062	,	BO639049000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0063	,	BO639045000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0067	,	BO639042000	,	01	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0079	,	BO148999043	,	43	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0083	,	BO148999038	,	38	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0103	,	CO600990004	,	04	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0106	,	CO600990005	,	05	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0110	,	CO600965002	,	02	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0111	,	CO600967002	,	02	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0114	,	CO600996000	,	00	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0120	,	CO600974000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0125	,	CO600985000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0128	,	CO600994002	,	02	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0131	,	CO600939000	,	00	,	11	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0140	,	CO600996000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0143	,	CO600988000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0149	,	CO600965001	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0155	,	CO600975000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0158	,	CO600991008	,	03	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0161	,	CO600532008	,	08	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0168	,	FR300224024	,	24	,	02	,	01	,	2.7.3 Familiar	,	3. Hermano
+0169	,	FR300224069	,	69	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0179	,	FR300224089	,	89	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0180	,	FR300224011	,	11	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0185	,	FR300224065	,	65	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0186	,	FR300224089	,	89	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0187	,	FR300224099	,	99	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0188	,	FR300225004	,	04	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0190	,	FR300282002	,	02	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+0193	,	FR300223008	,	08	,	01	,	02	,	2.7.3 Familiar	,	1. Cónyuge
+0194	,	FR300223010	,	10	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0198	,	FR300280000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0199	,	FR300220000	,	00	,	01	,	02	,	2.7.3 Familiar	,	4. No aplica
+0205	,	FR300242003	,	03	,	03	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0211	,	FR300223012	,	12	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0215	,	FR300223013	,	13	,	13	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0219	,	FR300222001	,	01	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0223	,	FR300223017	,	17	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0225	,	FR300223018	,	18	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0226	,	FR300224003	,	04	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0232	,	FR300224050	,	50	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0233	,	FR300224006	,	07	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0235	,	FR300224029	,	29	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0236	,	PE300224029	,	29	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0237	,	FR300224036	,	36	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0245	,	FR300224055	,	55	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0247	,	FR300224027	,	27	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0249	,	FR300224063	,	63	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0250	,	FR300224061	,	61	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0251	,	FR300224017	,	17	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0254	,	FR300224001	,	01	,	01	,	02	,	2.7.3 Familiar	,	1. Cónyuge
+0255	,	FR300224028	,	28	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0256	,	FR300224049	,	49	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0257	,	FR300224058	,	58	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0258	,	FR300224002	,	02	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0267	,	FR300224048	,	48	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0272	,	FR300224044	,	44	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+0273	,	FR300224043	,	43	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0278	,	FR300224098	,	98	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0280	,	FR300225007	,	07	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0283	,	FR300222002	,	02	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0288	,	FR300220000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0289	,	FR300223007	,	07	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0290	,	FR300272000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0292	,	FR300224001	,	01	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0293	,	FR300224004	,	04	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0294	,	FR300224004	,	04	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+0295	,	FR300224041	,	41	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0301	,	FR300282002	,	02	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0302	,	FR300282001	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0303	,	FR300281001	,	01	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0306	,	FR300281003	,	03	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0311	,	FR300224020	,	20	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0315	,	FR300224016	,	16	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0316	,	FR300224034	,	34	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0318	,	FR300224035	,	35	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0319	,	FR300224054	,	54	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0322	,	FR300224056	,	56	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0323	,	FR300224071	,	71	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0342	,	CO500527002	,	02	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0350	,	FR300225009	,	09	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0359	,	CO500529002	,	00	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+0363	,	CO600532029	,	29	,	02	,	02	,	2.7.3 Familiar	,	2. Hijo
+0364	,	CO600532015	,	15	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0369	,	CO500529002	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0373	,	CO500527018	,	18	,	23	,	00	,	2.7.3 Familiar	,	2. Hijo
+0386	,	BO407009000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0395	,	BO407014000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0403	,	BO410001000	,	00	,	00	,	00	,	2.7.3 Familiar	,	4. No aplica
+0435	,	BO643004000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0441	,	BO642005000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0450	,	BO639052000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0456	,	BO639042000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0458	,	BI639046000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0480	,	BO148999070	,	70	,	01	,	03	,	2.7.3 Familiar	,	5. Otro
+0499	,	BO639020000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0500	,	BO639012000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0503	,	BO639040000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0509	,	BO693038000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0512	,	BO642001000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0515	,	BO639029000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0529	,	FR300224100	,	10	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0530	,	FR300224101	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0531	,	FR300224113	,	13	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0533	,	FR300224096	,	96	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0535	,	FR300225002	,	02	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0541	,	FR300224080	,	80	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0542	,	FR300224105	,	05	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0545	,	FR300334084	,	84	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0546	,	FR300224093	,	93	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0547	,	FR300224102	,	02	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0548	,	BO516001000	,	06	,	00	,	00	,	2.7.3 Familiar	,	4. No aplica
+0553	,	BO410002000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0557	,	BO148999054	,	54	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+0558	,	BO639052000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0567	,	BO148999070	,	70	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0574	,	BO148999059	,	59	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0575	,	BO148999077	,	77	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0601	,	FR300225001	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0602	,	FR300224074	,	74	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0605	,	FR300224018	,	18	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0608	,	FR300221005	,	00	,	01	,	00	,	2.7.3 Familiar	,	2. Hijo
+0614	,	BO613002000	,	00	,	01	,	00	,	2.7.3 Familiar	,	3. Hermano
+0622	,	BO643009000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0626	,	BO417006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0634	,	BO520003002	,	02	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0643	,	BO520004008	,	08	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0655	,	BO622012000	,	00	,	02	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0662	,	BO206004001	,	01	,	02	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0674	,	BO205001002	,	02	,	00	,	00	,	2.7.3 Familiar	,	4. No aplica
+0682	,	BO203002002	,	02	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0690	,	BO730008000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0697	,	BO613004000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0701	,	BO203001009	,	09	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0719	,	BO643052000	,	03	,	02	,	01	,	2.7.3 Familiar	,	2. Hijo
+0721	,	BO641012000	,	00	,	03	,	01	,	2.7.3 Familiar	,	5. Otro
+0731	,	BO613005000	,	02	,	00	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+0734	,	BO613008000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0735	,	BO613002000	,	00	,	01	,	00	,	2.7.3 Familiar	,	4. No aplica
+0736	,	BO737001022	,	22	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0751	,	BO725009000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0756	,	BO849042000	,	19	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0760	,	BO725007000	,	00	,	02	,	01	,	2.7.3 Familiar	,	2. Hijo
+0772	,	BO417005000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0777	,	FR300242003	,	03	,	01	,	03	,	2.7.3 Familiar	,	2. Hijo
+0778	,	FR300224092	,	92	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0779	,	FR300224107	,	07	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0798	,	BO201001013	,	13	,	03	,	03	,	2.7.3 Familiar	,	4. No aplica
+0802	,	CO600942000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0815	,	CO700558000	,	04	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0820	,	BO639028000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0827	,	BO639026000	,	00	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0829	,	BO639006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0835	,	BO639007000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0842	,	BO639007000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0864	,	BO203002006	,	06	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0875	,	BO203003002	,	01	,	01	,	03	,	2.7.3 Familiar	,	4. No aplica
+0876	,	FR300224081	,	81	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0877	,	FR300224081	,	81	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0878	,	FR300225005	,	05	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0880	,	FR300224078	,	78	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0885	,	FR300224025	,	25	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0886	,	FR300225008	,	08	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0890	,	PE102013000	,	00	,	01	,	02	,	2.7.3 Familiar	,	1. Cónyuge
+0893	,	FR300224087	,	87	,	01	,	02	,	2.7.3 Familiar	,	1. Cónyuge
+0899	,	PE203010000	,	00	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+0901	,	PE102013000	,	00	,	01	,	03	,	2.7.3 Familiar	,	5. Otro
+0903	,	FR300224015	,	15	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0904	,	PE506008000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0916	,	PE304037000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0925	,	CO500527006	,	06	,	01	,	00	,	2.7.3 Familiar	,	2. Hijo
+0926	,	CO500525004	,	04	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0931	,	CO500527001	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0933	,	CO700550004	,	00	,	04	,	02	,	2.7.3 Familiar	,	5. Otro
+0935	,	CO700560001	,	06	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0940	,	CO600994004	,	04	,	04	,	01	,	2.7.3 Familiar	,	5. Otro
+0943	,	CO600990009	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+0947	,	CO500525006	,	06	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+0948	,	CO500525005	,	05	,	01	,	02	,	2.7.3 Familiar	,	4. No aplica
+0950	,	BO417006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0951	,	BO417006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0961	,	BO417013000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+0965	,	BO622006000	,	00	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+0968	,	BO641012000	,	00	,	02	,	01	,	2.7.3 Familiar	,	4. No aplica
+0973	,	BO622011000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0977	,	BO516001000	,	07	,	00	,	00	,	2.7.3 Familiar	,	4. No aplica
+0979	,	BO520004004	,	04	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+0980	,	BO407006000	,	00	,	00	,	00	,	2.7.3 Familiar	,	3. Hermano
+0988	,	BO516001000	,	05	,	00	,	00	,	2.7.3 Familiar	,	4. No aplica
+0990	,	BO520004004	,	04	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+0993	,	BO516001000	,	08	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1000	,	BO520004011	,	11	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1210	,	CO100506002	,	02	,	12	,	11	,	2.7.3 Familiar	,	1. Cónyuge
+1216	,	BO728006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1232	,	BO734001000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1261	,	BO734002000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1326	,	BO724002000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1338	,	BO724004000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1339	,	BO730007000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1422	,	BO724001000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1429	,	BO206006001	,	01	,	02	,	01	,	2.7.3 Familiar	,	4. No aplica
+1431	,	BO737001008	,	08	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+1439	,	BO725006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1442	,	BO723006000	,	01	,	02	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1448	,	BO737001003	,	03	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1451	,	BO747001033	,	33	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1452	,	BO737001017	,	17	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1454	,	BO726001000	,	00	,	02	,	01	,	2.7.3 Familiar	,	5. Otro
+1460	,	BO725014000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1466	,	BO726008000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1470	,	BO723003000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1488	,	BO723004000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1495	,	BO726011000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1500	,	PE102001000	,	00	,	01	,	00	,	2.7.3 Familiar	,	4. No aplica
+1501	,	BO204016000	,	00	,	23	,	01	,	2.7.3 Familiar	,	5. Otro
+1504	,	BO747001011	,	11	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+1506	,	BO209001002	,	02	,	03	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+1507	,	BO204016000	,	00	,	06	,	12	,	2.7.3 Familiar	,	4. No aplica
+1527	,	BO747001035	,	35	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1535	,	BO747001009	,	09	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1540	,	BO747001011	,	11	,	01	,	03	,	2.7.3 Familiar	,	2. Hijo
+1542	,	BO725017000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1543	,	BO725019000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+1545	,	BO726007000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1546	,	BO728016000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1549	,	BO728009000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+1551	,	BO726012000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1554	,	BO725012000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+1555	,	BO725002000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1557	,	BO725021000	,	00	,	02	,	02	,	2.7.3 Familiar	,	4. No aplica
+1558	,	BO725021000	,	00	,	02	,	01	,	2.7.3 Familiar	,	2. Hijo
+1561	,	BO723001000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+1564	,	BO726006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1575	,	PE304003000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1816	,	BE100062016	,	16	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1819	,	BE100062028	,	28	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+1823	,	BE100049003	,	02	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1826	,	BE100062017	,	17	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1827	,	BE100016000	,	00	,	00	,	00	,	2.7.3 Familiar	,	5. Otro
+1829	,	BE100015000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1832	,	BE100062014	,	14	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1835	,	BE100062031	,	31	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1841	,	BE100009000	,	00	,	00	,	00	,	2.7.3 Familiar	,	2. Hijo
+1861	,	CO500525008	,	08	,	88	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+1878	,	CO700557000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1885	,	BE100080000	,	00	,	00	,	00	,	2.7.3 Familiar	,	3. Hermano
+1889	,	CO300517003	,	03	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1890	,	CO600537000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1895	,	CO700555000	,	02	,	08	,	01	,	2.7.3 Familiar	,	5. Otro
+1904	,	CO600972000	,	00	,	01	,	00	,	2.7.3 Familiar	,	3. Hermano
+1924	,	CO600539003	,	03	,	01	,	00	,	2.7.3 Familiar	,	3. Hermano
+1948	,	BE100062032	,	32	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1956	,	BE100062023	,	23	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1965	,	BE100028000	,	00	,	00	,	00	,	2.7.3 Familiar	,	5. Otro
+1966	,	BE100062037	,	37	,	00	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+1967	,	BE100073000	,	00	,	03	,	01	,	2.7.3 Familiar	,	2. Hijo
+1968	,	BE100073000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+1969	,	CO100011001	,	01	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1976	,	BE100062013	,	13	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1978	,	BE100062015	,	15	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1979	,	BE100062010	,	10	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1980	,	BE100062012	,	12	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+1981	,	BE100062011	,	11	,	00	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+1984	,	CO300519000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1987	,	CO300517002	,	02	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+1988	,	BE100049001	,	01	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+1994	,	BE100006002	,	02	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+1995	,	BE100006001	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+1997	,	BE100062025	,	25	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+1998	,	BE100079000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2211	,	BO725007000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2229	,	BO729003000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2247	,	BO849042000	,	18	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2261	,	BO849042000	,	07	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2264	,	BO849042000	,	34	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+2268	,	BO849042000	,	40	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+2271	,	BO849042000	,	11	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2275	,	BO639034000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2279	,	BO849042000	,	29	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2309	,	BO725022000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2322	,	BO643010000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2351	,	BO204016000	,	00	,	21	,	00	,	2.7.3 Familiar	,	4. No aplica
+2353	,	BO202006000	,	00	,	01	,	00	,	2.7.3 Familiar	,	2. Hijo
+2354	,	BO202006000	,	00	,	01	,	00	,	2.7.3 Familiar	,	2. Hijo
+2383	,	BO417003000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2406	,	PE304028000	,	00	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+2407	,	PE203024000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2409	,	PE304027000	,	00	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+2410	,	PE304027000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2413	,	PE102025000	,	00	,	02	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2414	,	PE102025500	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+2418	,	PE304009001	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2419	,	PE203005000	,	00	,	02	,	01	,	2.7.3 Familiar	,	2. Hijo
+2422	,	PE304045001	,	01	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2429	,	PE503034000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+2430	,	PE304020000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2432	,	PE304008000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2436	,	PE304041000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2437	,	PE304016000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2438	,	PE304018000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2439	,	PE304040001	,	01	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2446	,	PE203016000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2448	,	PE304011000	,	00	,	00	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+2449	,	PE304013000	,	00	,	00	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+2450	,	PE102016000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2454	,	PE503061000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+2456	,	PE304025000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2462	,	PE304012000	,	00	,	02	,	01	,	2.7.3 Familiar	,	3. Hermano
+2466	,	PE503069000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2467	,	PE503053000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2476	,	PE503046000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2477	,	PE203001001	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2478	,	PE304036000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2499	,	PE203017000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2505	,	PE503030001	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2507	,	PE304032000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2508	,	PE405003000	,	00	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+2510	,	PE506001001	,	01	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2513	,	PE503067001	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2515	,	PE405007000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2519	,	PE405009000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2520	,	PE503069001	,	01	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+2521	,	PE503038000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2527	,	PE304024000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2528	,	PE405001000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+2530	,	PE503029000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2531	,	PE506003000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2536	,	PE102023000	,	00	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+2537	,	PE203009000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2541	,	PE405003000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2543	,	PE503047000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2544	,	PE304007000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2546	,	PE304015000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2547	,	PE304039000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2548	,	PE304039000	,	00	,	01	,	02	,	2.7.3 Familiar	,	2. Hijo
+2551	,	PE102026000	,	00	,	01	,	02	,	2.7.3 Familiar	,	4. No aplica
+2555	,	PE203010000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2557	,	PE102014000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2559	,	PE503059000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2562	,	PE503002600	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2564	,	PE503048000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2569	,	PE503036000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+2572	,	PE506004000	,	00	,	00	,	00	,	2.7.3 Familiar	,	4. No aplica
+2573	,	PE503067001	,	01	,	01	,	02	,	2.7.3 Familiar	,	5. Otro
+2574	,	PE503067001	,	01	,	02	,	01	,	2.7.3 Familiar	,	4. No aplica
+2576	,	PE405006000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2577	,	PE405004000	,	00	,	01	,	01	,	2.7.3 Familiar	,	3. Hermano
+2578	,	PE503034000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2588	,	PE102002001	,	01	,	01	,	00	,	2.7.3 Familiar	,	1. Cónyuge
+2593	,	PE102024000	,	00	,	02	,	01	,	2.7.3 Familiar	,	4. No aplica
+2594	,	PE405002000	,	00	,	02	,	02	,	2.7.3 Familiar	,	4. No aplica
+2595	,	PE405002000	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2596	,	PE506001002	,	02	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2597	,	PE503037000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2598	,	PE304026000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2599	,	PE102012001	,	01	,	01	,	02	,	2.7.3 Familiar	,	1. Cónyuge
+2600	,	PE102024000	,	00	,	01	,	01	,	2.7.3 Familiar	,	5. Otro
+2631	,	BO727005000	,	00	,	01	,	01	,	2.7.3 Familiar	,	2. Hijo
+2640	,	BO727001000	,	01	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2646	,	BO272701100	,	00	,	01	,	01	,	2.7.3 Familiar	,	4. No aplica
+2655	,	BO209002000	,	00	,	00	,	00	,	2.7.3 Familiar	,	4. No aplica
+2663	,	BO727004000	,	00	,	01	,	01	,	2.7.3 Familiar	,	1. Cónyuge
+2707	,	PE304030000	,	00	,	01	,	02	,	2.7.3 Familiar	,	3. Hermano

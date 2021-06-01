@@ -1,0 +1,312 @@
+0002	,	BO407017000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0012	,	BO407017000	,	00	,	04	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0019	,	BO338006000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0022	,	BO407007000	,	00	,	01	,	03	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+0027	,	BO338002000	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0041	,	CO600991002	,	02	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0046	,	BO643023000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0058	,	BO642006000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0060	,	BO643022000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0072	,	BO148999021	,	21	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0078	,	BO148999039	,	39	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0087	,	BO148999037	,	37	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0089	,	BO148999007	,	07	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0092	,	BO148999002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0094	,	BO148999013	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0102	,	CO500529003	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0103	,	CO600990004	,	04	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0105	,	CO600990003	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0109	,	CO600941000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0122	,	CO600990008	,	08	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0125	,	CO600985000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0134	,	CO600532003	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0137	,	CO600996001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0140	,	CO600996000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0144	,	CO600987000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0153	,	CO600532007	,	07	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0156	,	CO600991005	,	05	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0158	,	CO600991008	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0161	,	CO600532008	,	08	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0163	,	CO600532010	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0164	,	CO600532011	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0165	,	CO600539001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0166	,	FR300214002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0169	,	FR300224069	,	69	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0182	,	FR300214007	,	07	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0183	,	FR300214001	,	01	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0185	,	FR300224065	,	65	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0188	,	FR300225004	,	04	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0189	,	FR300223008	,	08	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0219	,	FR300222001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0223	,	FR300223017	,	17	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0228	,	FR300242003	,	00	,	15	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0229	,	FR300242003	,	03	,	09	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0231	,	FR300242003	,	03	,	07	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0238	,	FR300224010	,	10	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+0242	,	FR300224019	,	19	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0252	,	FR300224026	,	26	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0279	,	FR300225006	,	06	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0287	,	FR300224051	,	51	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0289	,	FR300223007	,	07	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	8. Deterioro de la vivienda o hacinamiento
+0291	,	FR300223011	,	11	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0292	,	FR300224001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0294	,	FR300224004	,	04	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	8. Deterioro de la vivienda o hacinamiento
+0296	,	FR300224072	,	72	,	01	,	03	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0298	,	FR300224077	,	77	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0300	,	FR300224057	,	57	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0305	,	FR300224044	,	44	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0315	,	FR300224016	,	16	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0316	,	FR300224034	,	34	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0321	,	FR300224073	,	73	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0336	,	CO600532024	,	24	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0340	,	CO700550004	,	00	,	05	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0349	,	CO700550004	,	00	,	05	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0350	,	FR300225009	,	09	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0353	,	CO600971000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0354	,	CO700550004	,	00	,	04	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0365	,	CO600532016	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0366	,	CO700550004	,	00	,	02	,	03	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0367	,	CO700553000	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0368	,	CO600532027	,	27	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0376	,	CO600991004	,	04	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0379	,	BE100062034	,	34	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0381	,	BO338009000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+0382	,	BO407001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0383	,	BO407001000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0384	,	BO407014000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0385	,	BO407011000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0397	,	BO407004000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0401	,	BO338009000	,	00	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	8. Deterioro de la vivienda o hacinamiento
+0406	,	BO148999036	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0412	,	BO206007000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0431	,	BO642019000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0434	,	BO643008000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0439	,	BO643018000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0440	,	BO642015000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0441	,	BO642005000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0449	,	BO641005000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0456	,	BO639042000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0457	,	BO639012000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0464	,	BO622004000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0466	,	BO410001000	,	00	,	08	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0476	,	BO148999049	,	49	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0491	,	BO338009000	,	00	,	00	,	00	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0495	,	BO407007000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0497	,	BO639032000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0525	,	BO639041000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0532	,	FR300224083	,	83	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0540	,	FR300224094	,	94	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0543	,	FR300225002	,	02	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	3. Por estudio
+0545	,	FR300334084	,	84	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0546	,	FR300224093	,	93	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0550	,	BO407013000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0551	,	BO338013000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0553	,	BO410002000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0559	,	BO639030000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+0569	,	BO148999058	,	58	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0571	,	BO148999075	,	75	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0579	,	BO148999072	,	72	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0584	,	BO410002000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0590	,	BO639024000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0601	,	FR300225001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0610	,	BO641004000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0617	,	BO645005000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0618	,	BO643009000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0626	,	BO417006000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0629	,	BO417001000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0642	,	BO417001000	,	00	,	04	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0649	,	BO641008000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0675	,	BO206003003	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0678	,	BO205001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0680	,	BO205001000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0681	,	BO747001016	,	16	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0694	,	BO407009000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0705	,	BO206011000	,	00	,	01	,	00	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0707	,	bo206002004	,	04	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0714	,	BO613001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0717	,	BO645002000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0724	,	BO613007000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0752	,	BO726005000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0765	,	BO611001000	,	04	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0770	,	BO613011000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0772	,	BO417005000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0778	,	FR300224092	,	92	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0780	,	CO500527011	,	11	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0798	,	BO201001013	,	13	,	03	,	03	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0799	,	BO206009000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0802	,	CO600942000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	3. Por estudio
+0811	,	CO300518002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0814	,	CO500527015	,	15	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0817	,	BO417015000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0819	,	BO639012000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0820	,	BO639028000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0823	,	BO622014000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0824	,	BO645001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0827	,	BO639026000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0828	,	BO645002000	,	02	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0830	,	BO639005000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0832	,	BO639011000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0836	,	BO639007000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0841	,	BO520004012	,	12	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0845	,	BO645002000	,	04	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0851	,	BO206003001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0854	,	BO148999034	,	34	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0855	,	BO206062000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0856	,	BO201001013	,	13	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0867	,	BO206007000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0868	,	BO206003000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0886	,	FR300225008	,	08	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0888	,	FR300224095	,	95	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0908	,	FR300224062	,	62	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0913	,	PE102012002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0918	,	PE102011000	,	00	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0931	,	CO500527001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0933	,	CO700550004	,	00	,	04	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0934	,	CO500527003	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0939	,	FR300224085	,	85	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0944	,	CO600941000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+0953	,	BO417014000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	3. Por estudio
+0954	,	BO520003006	,	06	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+0956	,	BO514001003	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+0961	,	BO417013000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0962	,	BO639027000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0964	,	BO622014000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0965	,	BO622006000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+0967	,	BO622003000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0968	,	BO641012000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+0969	,	BO645002000	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+0974	,	BO622004000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+0975	,	FR300224072	,	72	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1214	,	BO728003000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+1221	,	BO725003000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1258	,	BO730001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1294	,	BO747001024	,	24	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1328	,	BO723008000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+1332	,	BO728017000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+1333	,	BO725011000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	8. Deterioro de la vivienda o hacinamiento
+1356	,	BO734004000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+1418	,	BO417001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+1422	,	BO724001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+1431	,	BO737001008	,	08	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1432	,	BO737001002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+1438	,	BO725005000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1455	,	BO725010000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+1456	,	BO737003001	,	01	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1459	,	BO725010000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+1461	,	BO725014000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+1464	,	BO725013000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+1465	,	BO726001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+1466	,	BO726008000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+1467	,	BO725018000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+1469	,	BO725016000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1471	,	BO723007000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+1475	,	BO728020000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1481	,	BO728026000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1482	,	BO723006000	,	02	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1495	,	BO726011000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+1498	,	BO747001001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1511	,	BO737001009	,	09	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1512	,	BO747001036	,	36	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1524	,	BO737001004	,	04	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1529	,	BO206004001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1544	,	BO725017000	,	00	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+1552	,	BO725005000	,	00	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+1555	,	BO725002000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+1557	,	BO725021000	,	00	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	3. Por estudio
+1559	,	BO725011000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1562	,	BO725020000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+1566	,	BO725004000	,	00	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1587	,	PE102001600	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+1594	,	PE203001000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+1803	,	BE100004001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	3. Por estudio
+1820	,	BE100062036	,	36	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1829	,	BE100015000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1830	,	BE100062008	,	08	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1833	,	BE100062007	,	07	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1857	,	CO600991009	,	09	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1864	,	CO500528003	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+1878	,	CO700557000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1880	,	CO600991006	,	01	,	11	,	11	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1882	,	CO600986000	,	00	,	11	,	11	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1890	,	CO600537000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1901	,	BE100062007	,	07	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1909	,	BE100019000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1931	,	BE100062002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+1959	,	BE100062021	,	21	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+1964	,	CO100503000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+1987	,	CO300517002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1990	,	CO300515001	,	01	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+1991	,	BE100062030	,	03	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+2202	,	BO728019000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+2226	,	BO730001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2228	,	BO533001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+2234	,	BO613003000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2249	,	BO849042000	,	35	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+2250	,	BO849042000	,	28	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+2251	,	BO849042000	,	08	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+2307	,	BO643002000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+2308	,	BO622003000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2312	,	BO642006000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2313	,	BO622015000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+2322	,	BO643010000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2324	,	BO622003000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2331	,	BO204016000	,	00	,	06	,	11	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+2333	,	BO204016000	,	00	,	06	,	03	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2334	,	BO206011000	,	00	,	01	,	04	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2338	,	BO204016000	,	00	,	06	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2339	,	BO204016000	,	00	,	04	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2362	,	BO202005000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2364	,	BO202007000	,	00	,	02	,	00	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2369	,	BO747001027	,	27	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+2371	,	BO521009000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2373	,	BO521009000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2376	,	BO521004000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2401	,	PE304001001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2403	,	PE304010000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+2405	,	PE203021000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2408	,	PE203024000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2416	,	PE304009000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+2429	,	PE503034000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	8. Deterioro de la vivienda o hacinamiento
+2450	,	PE102016000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2454	,	PE503061000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2458	,	PE503066002	,	02	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2460	,	PE503041000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2464	,	PE203002000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2465	,	PE102003000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2473	,	PE503061001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2475	,	PE203003000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+2479	,	PE304043000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+2482	,	PE304012000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2483	,	PE203001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2485	,	PE203006000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2491	,	PE304006000	,	00	,	04	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+2496	,	PE304001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+2497	,	PE304001000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2505	,	PE503030001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2511	,	PE503031000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2512	,	PE503031001	,	01	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2515	,	PE405007000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2516	,	PE405011000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2521	,	PE503038000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+2535	,	PE503035000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2559	,	PE503059000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+2567	,	PE503055000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	4. Por venta/compra del predio
+2574	,	PE503067001	,	01	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2579	,	PE503066000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2584	,	PE503033000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2590	,	PE102016000	,	00	,	03	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2593	,	PE102024000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2594	,	PE405002000	,	00	,	02	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	10. Incomodidad
+2595	,	PE405002000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2632	,	BO727013000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2633	,	BO727013000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2634	,	BO727013000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2635	,	BO727005000	,	00	,	02	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+2648	,	BO727008000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+2651	,	BO737003001	,	01	,	01	,	04	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo
+2653	,	BO737003001	,	01	,	01	,	03	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	1. Desplazamiento
+2663	,	BO727004000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	9. Cambio de vivienda
+2707	,	PE304030000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	5. Traslado por empleo
+2708	,	PE304042000	,	00	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	7. Asuntos familiares
+2709	,	PE503053000	,	00	,	01	,	02	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	6. Desastres naturales
+2752	,	BO747001021	,	21	,	01	,	01	,	4.9 ¿Cuál fue el principal motivo del traslado?	,	2. En busca de empleo

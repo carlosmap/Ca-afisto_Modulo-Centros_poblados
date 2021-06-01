@@ -1,0 +1,1235 @@
+0001	,	BO338005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0002	,	BO407017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0003	,	BO407017000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0004	,	BO338011000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0007	,	BO338010000	,	01	,	02	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0009	,	BO407015000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0011	,	BO407017000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0012	,	BO407017000	,	00	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0016	,	BO407009000	,	00	,	00	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0018	,	BO520003007	,	07	,	07	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0019	,	BO338006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0020	,	BO338008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0022	,	BO407007000	,	00	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0027	,	BO338002000	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0030	,	BO410001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0033	,	BO338007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0035	,	BO641012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0036	,	BO642017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0039	,	BO641002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0041	,	CO600991002	,	02	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0046	,	BO643023000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0047	,	BO641005000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+0048	,	BO642018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0049	,	BO643023000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0050	,	BO641019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0051	,	BO642004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0052	,	BO643001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0053	,	BO640001006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0054	,	BO642002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0055	,	BO643013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0057	,	BO643016000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0058	,	BO642006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0059	,	BO641021000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0060	,	BO643022000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0061	,	BO641001000	,	00	,	00	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0062	,	BO639049000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0063	,	BO639045000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0065	,	BO639031000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0066	,	BO639052008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0068	,	BO148999001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0070	,	BO201001005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0071	,	BO148999000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0072	,	BO148999021	,	21	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0073	,	BO148999035	,	35	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0074	,	BO148999048	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0075	,	BO203002001	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0076	,	BO148999008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0077	,	BO148999024	,	24	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0078	,	BO148999039	,	39	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0079	,	BO148999043	,	43	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0080	,	BO148999009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0081	,	BO148999041	,	41	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0082	,	BO148999017	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0083	,	BO148999038	,	38	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0084	,	BO148999006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0086	,	BO148999051	,	51	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0087	,	BO148999037	,	37	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0088	,	bo148999004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0089	,	BO148999007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0092	,	BO148999002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0094	,	BO148999013	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0095	,	BO148999050	,	50	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0096	,	BO148999040	,	40	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0098	,	BO148999014	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0099	,	BO148999042	,	42	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0100	,	BO148999026	,	26	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0101	,	CO600967001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0102	,	CO500529003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0103	,	CO600990004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0104	,	CO600532005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0105	,	CO600990003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+0106	,	CO600990005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0107	,	CO600990001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0108	,	CO600954000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0109	,	CO600941000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0110	,	CO600965002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0111	,	CO600967002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0113	,	CO600990006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0114	,	CO600996000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0116	,	CO600532025	,	25	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0117	,	CO600970000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0118	,	CO600958000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0119	,	CO600990002	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0120	,	CO600974000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0121	,	CO600532002	,	02	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0122	,	CO600990008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0123	,	CO600941000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0125	,	CO600985000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0126	,	CO600980000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0127	,	CO600953000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0128	,	CO600994002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0131	,	CO600939000	,	00	,	11	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0132	,	CO600969000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0133	,	CO600964000	,	00	,	11	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0134	,	CO600532003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0136	,	CO600532001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0137	,	CO600996001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0138	,	CO600938002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0139	,	CO600994001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0140	,	CO600996000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0141	,	CO600994003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0142	,	CO600966002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0143	,	CO600988000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0144	,	CO600987000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0146	,	CO600983000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0147	,	CO600532009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0149	,	CO600965001	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0150	,	CO700562000	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0151	,	CO600966001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0152	,	CO600532004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0153	,	CO600532007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0155	,	CO600975000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0156	,	CO600991005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0158	,	CO600991008	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0160	,	CO600991007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0161	,	CO600532008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0163	,	CO600532010	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0164	,	CO600532011	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0165	,	CO600539001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0166	,	FR300214002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0167	,	FR300224013	,	13	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0168	,	FR300224024	,	24	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0169	,	FR300224069	,	69	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0170	,	FR300214001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0171	,	PE304006000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+0172	,	FR300214003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0173	,	FR300214006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0176	,	FR300214005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0177	,	FR300214008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0178	,	FR300214004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0179	,	FR300224089	,	89	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0180	,	FR300224011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0181	,	FR300214007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0182	,	FR300214007	,	07	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0183	,	FR300214001	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0184	,	FR300224033	,	33	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0185	,	FR300224065	,	65	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0186	,	FR300224089	,	89	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0187	,	FR300224099	,	99	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0188	,	FR300225004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0189	,	FR300223008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0190	,	FR300282002	,	02	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0191	,	FR300214000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0192	,	FR300224012	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0193	,	FR300223008	,	08	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0194	,	FR300223010	,	10	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0195	,	FR300210002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0197	,	FR300279000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0198	,	FR300280000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0199	,	FR300220000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0201	,	FR300223003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0205	,	FR300242003	,	03	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0207	,	FR300242003	,	03	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0208	,	FR300242003	,	03	,	10	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0209	,	FR300242002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0210	,	FR300223009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0211	,	FR300223012	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0212	,	FR300242001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0213	,	FR300242003	,	03	,	08	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0214	,	FR300242003	,	03	,	07	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0215	,	FR300223013	,	13	,	13	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0217	,	FR300101000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0218	,	FR300242003	,	03	,	11	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0219	,	FR300222001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0220	,	FR300222003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0221	,	FR300242003	,	03	,	06	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0222	,	FR300242003	,	03	,	06	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0223	,	FR300223017	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0224	,	FR300242003	,	03	,	12	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0225	,	FR300223018	,	18	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0226	,	FR300224003	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0227	,	FR300242003	,	05	,	05	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0228	,	FR300242003	,	00	,	15	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0229	,	FR300242003	,	03	,	09	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0230	,	FR300223004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0231	,	FR300242003	,	03	,	07	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0232	,	FR300224050	,	50	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0233	,	FR300224006	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0235	,	FR300224029	,	29	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0236	,	PE300224029	,	29	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0237	,	FR300224036	,	36	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0238	,	FR300224010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0240	,	FR300224053	,	53	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0241	,	FR300224006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0242	,	FR300224019	,	19	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0243	,	FR300224030	,	30	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0244	,	FR300224018	,	18	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0245	,	FR300224055	,	55	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0246	,	FR300224010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0247	,	FR300224027	,	27	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0248	,	FR300224040	,	40	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0249	,	FR300224063	,	63	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0250	,	FR300224061	,	61	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0251	,	FR300224017	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0252	,	FR300224026	,	26	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0253	,	FR300224039	,	39	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0254	,	FR300224001	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0255	,	FR300224028	,	28	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0256	,	FR300224049	,	49	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0257	,	FR300224058	,	58	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0258	,	FR300224002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0259	,	FR300224021	,	21	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0260	,	FR300224067	,	67	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0261	,	PE102004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0262	,	PE304019001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0263	,	FR300224103	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0264	,	FR300225003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0265	,	FR300225010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0266	,	FR300224046	,	46	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0267	,	FR300224048	,	48	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0268	,	PE405015002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0269	,	FR300224045	,	45	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0270	,	FR300224070	,	70	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0272	,	FR300224044	,	44	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0273	,	FR300224043	,	43	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0274	,	FR300224068	,	68	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0275	,	FR300224052	,	52	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0276	,	FR300224087	,	87	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0277	,	FR300223002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0278	,	FR300224098	,	98	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0279	,	FR300225006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0280	,	FR300225007	,	07	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0281	,	FR300223006	,	06	,	06	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0282	,	FR300223005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0283	,	FR300222002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0284	,	FR300223010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0285	,	FR300223020	,	20	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0286	,	FR300242003	,	03	,	11	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0287	,	FR300224051	,	51	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0288	,	FR300220000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0289	,	FR300223007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0290	,	FR300272000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0291	,	FR300223011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0292	,	FR300224001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0293	,	FR300224004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0294	,	FR300224004	,	04	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0295	,	FR300224041	,	41	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0296	,	FR300224072	,	72	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0297	,	FR300224037	,	37	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0298	,	FR300224077	,	77	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0299	,	FR300224104	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0300	,	FR300224057	,	57	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0301	,	FR300282002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0302	,	FR300282001	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0303	,	FR300281001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0304	,	FR300281003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0305	,	FR300224044	,	44	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0306	,	FR300281003	,	03	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0307	,	FR300223021	,	21	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0308	,	FR300224022	,	22	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0309	,	FR300210001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0310	,	FR300223019	,	19	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0311	,	FR300224020	,	20	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0312	,	FR300224072	,	72	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0313	,	PE300224032	,	32	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0314	,	FR300224097	,	97	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0315	,	FR300224016	,	16	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0316	,	FR300224034	,	34	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0317	,	FR300224016	,	16	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0318	,	FR300224035	,	35	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0319	,	FR300224054	,	54	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0320	,	FR300224059	,	59	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0321	,	FR300224073	,	73	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0322	,	FR300224056	,	56	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0323	,	FR300224071	,	71	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0324	,	FR300224106	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0325	,	FR300224091	,	91	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0326	,	FR300224094	,	94	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0327	,	FR300224075	,	75	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0330	,	CO600539004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0331	,	CO600539005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0335	,	CO600532020	,	20	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0336	,	CO600532024	,	24	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0338	,	CO700550004	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0339	,	CO500528002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0340	,	CO700550004	,	00	,	05	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0341	,	CO500529002	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0342	,	CO500527002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0347	,	CO700561000	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0348	,	CO700550004	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0349	,	CO700550004	,	00	,	05	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0350	,	FR300225009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0351	,	CO500527018	,	18	,	13	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0353	,	CO600971000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0354	,	CO700550004	,	00	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0355	,	CO500529001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0358	,	CO600532013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0359	,	CO500529002	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0361	,	CO600532023	,	23	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0362	,	CO600532019	,	19	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0363	,	CO600532029	,	29	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0364	,	CO600532015	,	15	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0365	,	CO600532016	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0366	,	CO700550004	,	00	,	02	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0367	,	CO700553000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0368	,	CO600532027	,	27	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0369	,	CO500529002	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0370	,	CO600532018	,	18	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0372	,	CO500525005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0375	,	CO300518001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0376	,	CO600991004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0377	,	CO600991003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0379	,	BE100062034	,	34	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0380	,	CO500525007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0381	,	BO338009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0382	,	BO407001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0383	,	BO407001000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0384	,	BO407014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0385	,	BO407011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0386	,	BO407009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0389	,	BO407017000	,	00	,	01	,	05	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0390	,	BO407017000	,	00	,	06	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0392	,	BO407013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0394	,	BO407013000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0395	,	BO407014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0397	,	BO407004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0398	,	BO407003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0400	,	BO338009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0401	,	BO338009000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0402	,	BO410001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0403	,	BO410001000	,	00	,	00	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0405	,	BO148999033	,	33	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0406	,	BO148999036	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0407	,	BO148999003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0409	,	BO148999027	,	21	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0412	,	BO206007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0414	,	BO148999022	,	22	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0416	,	BO148999044	,	44	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0417	,	BO148999052	,	52	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0419	,	BO148999020	,	20	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0420	,	BO148999028	,	28	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0423	,	BO148999046	,	46	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0425	,	BO201001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0426	,	BO148999054	,	54	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0427	,	BO148999053	,	53	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0428	,	BO148999076	,	76	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0429	,	BO148999025	,	25	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0430	,	BO643025000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0431	,	BO642019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0432	,	BO642011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0433	,	BO642014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0434	,	BO643008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0435	,	BO643004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0436	,	BO642010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0437	,	BO643011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0438	,	BO643018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0439	,	BO643018000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0440	,	BO642015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0441	,	BO642005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0444	,	BO639052005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0446	,	BO639052004	,	04	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0447	,	BO643017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0448	,	BO639052008	,	08	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0449	,	BO641005000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0450	,	BO639052000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0451	,	BO148999011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0453	,	BO148999018	,	18	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0454	,	BO201001003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0455	,	BO201001010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0456	,	BO639042000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0457	,	BO639012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0458	,	BI639046000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0459	,	BO639052000	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0461	,	BO639052001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0462	,	BO639047000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0464	,	BO622004000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0465	,	BO639022000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0466	,	BO410001000	,	00	,	08	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0472	,	BO201001011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0473	,	BO201001004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0475	,	BO206003002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0476	,	BO148999049	,	49	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0477	,	BO148999069	,	69	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0479	,	BO148999070	,	70	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0480	,	BO148999070	,	70	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0481	,	bo148999047	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0482	,	BO148999063	,	63	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0483	,	BO203003004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0486	,	BO148999064	,	64	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0491	,	BO338009000	,	00	,	00	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0495	,	BO407007000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0496	,	BO520004002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0497	,	BO639032000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0498	,	BO639035000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0499	,	BO639020000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0500	,	BO639012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0501	,	BO639033000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0502	,	BO639023000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0503	,	BO639040000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0509	,	BO693038000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0511	,	BO639025000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0512	,	BO642001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0514	,	BO622003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0515	,	BO639029000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0516	,	BO639016000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0518	,	BO639017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0520	,	BO639019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0521	,	BO639037000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0523	,	BO639021000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0524	,	BO639063000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0525	,	BO639041000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0526	,	PE203023000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0527	,	FR300224097	,	97	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0528	,	FR300224076	,	76	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0529	,	FR300224100	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0530	,	FR300224101	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0531	,	FR300224113	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0532	,	FR300224083	,	83	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0533	,	FR300224096	,	96	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0534	,	FR300224101	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0535	,	FR300225002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0536	,	FR300224083	,	83	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+0537	,	FR300224090	,	90	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0538	,	FR300224109	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0540	,	FR300224094	,	94	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0541	,	FR300224080	,	80	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0542	,	FR300224105	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0543	,	FR300225002	,	02	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0544	,	FR300225011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0545	,	FR300334084	,	84	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0546	,	FR300224093	,	93	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0547	,	FR300224102	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0550	,	BO407013000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0551	,	BO338013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0552	,	BO407013000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0553	,	BO410002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0554	,	BO639052005	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0555	,	BO639052000	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0556	,	BO148999055	,	55	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0557	,	BO148999054	,	54	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0558	,	BO639052000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0559	,	BO639030000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0560	,	BO520003008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0561	,	BO639052000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0562	,	BO639050000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0563	,	BO639052000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0564	,	BO148999057	,	57	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0565	,	BO148999065	,	65	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0567	,	BO148999070	,	70	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0569	,	BO148999058	,	58	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0570	,	BO148999066	,	66	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0571	,	BO148999075	,	75	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0573	,	BO201001001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0574	,	BO148999059	,	59	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0575	,	BO148999077	,	77	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0576	,	BO148999039	,	39	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0577	,	BO410001000	,	00	,	05	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0578	,	BO148999045	,	45	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0579	,	BO148999072	,	72	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0582	,	BO338000000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0583	,	BO520003001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0584	,	BO410002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0589	,	BO639018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0590	,	BO639024000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0594	,	BO419002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0595	,	BO520003009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0596	,	BO520004006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0601	,	FR300225001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0602	,	FR300224074	,	74	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0603	,	FR300224114	,	14	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0604	,	FR300224013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0605	,	FR300224018	,	18	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0607	,	FR300224079	,	79	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0609	,	BO639029000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0610	,	BO641004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0612	,	BO849042000	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0613	,	BO849042000	,	30	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0617	,	BO645005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0618	,	BO643009000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0622	,	BO643009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0626	,	BO417006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0628	,	BO417001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0629	,	BO417001000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0630	,	BO417001000	,	00	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0631	,	BO417011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0632	,	BO417008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0633	,	BO417002000	,	00	,	00	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0635	,	BO229007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0636	,	BO520004009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0637	,	BO520003003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0638	,	BO520004014	,	14	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0641	,	BO417001000	,	00	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0642	,	BO417001000	,	00	,	04	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0643	,	BO520004008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0649	,	BO641008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0650	,	BO639048000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0654	,	BO613010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0655	,	BO622012000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0660	,	BO206007001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0662	,	BO206004001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0665	,	BO747001019	,	19	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0669	,	BO205001002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0670	,	BO206009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0671	,	BO205003003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0672	,	BO203001009	,	09	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0673	,	BO148999018	,	18	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0675	,	BO206003003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+0676	,	BO737001015	,	15	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0677	,	BO206007001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0678	,	BO205001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0679	,	BO205003006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0681	,	BO747001016	,	16	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0682	,	BO203002002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0683	,	BO747001014	,	14	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0684	,	BO737003004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0685	,	BO148999068	,	68	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0686	,	BO747001032	,	32	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0689	,	BO730001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0690	,	BO730008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0691	,	BO730003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0694	,	BO407009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0696	,	BO613011000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0697	,	BO613004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0700	,	BO611003000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0701	,	BO203001009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0703	,	BO203003003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0704	,	BO203002008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0705	,	BO206011000	,	00	,	01	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0707	,	bo206002004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0708	,	BO203002013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0714	,	BO613001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0717	,	BO645002000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0718	,	BO611001000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0719	,	BO643052000	,	03	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0721	,	BO641012000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0724	,	BO613007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0727	,	BO611003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0732	,	BO613009000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0734	,	BO613008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0736	,	BO737001022	,	22	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0740	,	BO730004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0745	,	BO726001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0749	,	BO730007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0751	,	BO725009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0752	,	BO726005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0755	,	BO612002000	,	00	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0756	,	BO849042000	,	19	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0757	,	BO729004000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0758	,	BO729004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0759	,	BO726005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0760	,	BO725007000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0763	,	BO730006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0765	,	BO611001000	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0766	,	BO611001000	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0767	,	BO611001000	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0770	,	BO613011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0771	,	BO613005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0772	,	BO417005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0776	,	FR300224047	,	47	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0777	,	FR300242003	,	03	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0778	,	FR300224092	,	92	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0779	,	FR300224107	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0780	,	CO500527011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0781	,	CO500527004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0782	,	CO500525009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0783	,	CO500525015	,	15	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0784	,	CO500525013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0785	,	CO700556000	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0786	,	CO500525010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0787	,	CO500525001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0790	,	CO500525014	,	14	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0791	,	B0206010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0793	,	BO203003005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0794	,	BO206011002	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0795	,	BO205003001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0796	,	BO205003007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0797	,	BO206011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0798	,	BO201001013	,	13	,	03	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0799	,	BO206009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0800	,	BO203002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0802	,	CO600942000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0803	,	CO500525006	,	06	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0805	,	CO500527005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0806	,	CO500252011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0807	,	CO500522001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0810	,	BE100013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0811	,	CO300518002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0812	,	CO500527012	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0813	,	CO500527013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0815	,	CO700558000	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0817	,	BO417015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0818	,	BO639008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0819	,	BO639012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0820	,	BO639028000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0823	,	BO622014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0824	,	BO645001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0825	,	BO622006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0826	,	BO639026000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0827	,	BO639026000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0828	,	BO645002000	,	02	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0829	,	BO639006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0830	,	BO639005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0832	,	BO639011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0834	,	BO639004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0835	,	BO639007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0836	,	BO639007000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0838	,	BO639052000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0840	,	BO622007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0841	,	BO520004012	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0842	,	BO639007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0843	,	BO645002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0845	,	BO645002000	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0850	,	BO148999071	,	71	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0851	,	BO206003001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0854	,	BO148999034	,	34	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0855	,	BO206062000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0856	,	BO201001013	,	13	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0863	,	BO203001005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0864	,	BO203002006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0865	,	BO206002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0867	,	BO206007000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0868	,	BO206003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0869	,	BO201001013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0871	,	BO203002003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0874	,	BO203003001	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0875	,	BO203003002	,	01	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0876	,	FR300224081	,	81	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0877	,	FR300224081	,	81	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0878	,	FR300225005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0880	,	FR300224078	,	78	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0881	,	FR300224086	,	86	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0882	,	FR300224108	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0883	,	FR300225006	,	06	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0884	,	FR300224112	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0885	,	FR300224025	,	25	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0886	,	FR300225008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0887	,	PE304002002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0888	,	FR300224095	,	95	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+0889	,	FR300224110	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0890	,	PE102013000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0893	,	FR300224087	,	87	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0894	,	FR300225013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0895	,	FR300225007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0897	,	PE203021000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0898	,	PE304004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0899	,	PE203010000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0900	,	PE102013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0901	,	PE102013000	,	00	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0902	,	FR300224015	,	15	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0903	,	FR300224015	,	15	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0904	,	PE506008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0905	,	FR300224023	,	23	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0906	,	FR300224042	,	42	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0907	,	FR300224066	,	66	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0908	,	FR300224062	,	62	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0909	,	PE102005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+0910	,	PE102015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0911	,	PE102012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0913	,	PE102012002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0914	,	PE102008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0915	,	PE203018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0916	,	PE304037000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0917	,	PE102012001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0918	,	PE102011000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0919	,	PE503044000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0921	,	PE304005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0922	,	FR300224007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0923	,	FR300224006	,	60	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0926	,	CO500525004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0927	,	CO600994000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0929	,	CO500527009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0931	,	CO500527001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0932	,	CO500527014	,	14	,	14	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0933	,	CO700550004	,	00	,	04	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0934	,	CO500527003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0935	,	CO700560001	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0936	,	BE100062005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0937	,	be100062001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+0939	,	FR300224085	,	85	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0940	,	CO600994004	,	04	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0941	,	CO600961000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0942	,	CO600962000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0944	,	CO600941000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0945	,	CO500522002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0946	,	CO500525002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0947	,	CO500525006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0948	,	CO500525005	,	05	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0949	,	CO500525013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0950	,	BO417006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0951	,	BO417006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0952	,	BO417007000	,	00	,	00	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0953	,	BO417014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0954	,	BO520003006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0956	,	BO514001003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0959	,	BO417012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0961	,	BO417013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0962	,	BO639027000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0963	,	BO639043000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0964	,	BO622014000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0965	,	BO622006000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0966	,	BO622004000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0967	,	BO622003000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0968	,	BO641012000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0969	,	BO645002000	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0970	,	BO645002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+0973	,	BO622011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0974	,	BO622004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0975	,	FR300224072	,	72	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+0976	,	BO410003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0979	,	BO520004004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0985	,	BO520003010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+0989	,	BO520004007	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0990	,	BO520004004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+0993	,	BO516001000	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+0994	,	BO520004001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+0999	,	BO410001000	,	00	,	00	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1000	,	BO520004011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1203	,	CO600998002	,	02	,	45	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1210	,	CO100506002	,	02	,	12	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1214	,	BO728003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1215	,	BO728023000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1216	,	BO728006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1217	,	BO728022000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1218	,	BO728007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1219	,	BO724005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1220	,	BO728021000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+1221	,	BO725003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1224	,	BO728015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1226	,	BO728010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+1227	,	BO723009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1229	,	BO728022000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1230	,	BO728018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1232	,	BO734001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1233	,	BO734001000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1242	,	BO734004000	,	00	,	03	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1243	,	BO734004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1244	,	BO514001004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+1247	,	BO730005000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1252	,	BO730005000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1258	,	BO730001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1259	,	BO730006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1261	,	BO734002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1262	,	BO645002000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1278	,	BO734004000	,	00	,	05	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1279	,	BO734005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1326	,	BO724002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1327	,	BO728013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1328	,	BO723008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1330	,	BO728010000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1331	,	BO728021000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1332	,	BO728017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1333	,	BO725011000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1336	,	BO734003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1338	,	BO724004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1339	,	BO730007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1350	,	BO734007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1356	,	BO734004000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1358	,	BO730005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1414	,	BO521007000	,	00	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1418	,	BO417001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1421	,	BO728019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1422	,	BO724001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1429	,	BO206006001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1430	,	BO148999029	,	29	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1431	,	BO737001008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1432	,	BO737001002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1433	,	BO737003003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1434	,	BO737001019	,	19	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1435	,	BO747001015	,	15	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1436	,	BO725008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1437	,	BO725008000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1438	,	BO725005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1439	,	BO725006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1440	,	BO725015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1441	,	BO725001000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1442	,	BO723006000	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1444	,	BO737001016	,	16	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1445	,	BO737001015	,	15	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1446	,	BO747001034	,	34	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1447	,	BO737001004	,	04	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1448	,	BO737001003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1451	,	BO747001033	,	33	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1452	,	BO737001017	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1454	,	BO726001000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1455	,	BO725010000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1456	,	BO737003001	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1457	,	BO737001020	,	20	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1458	,	BO747001011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1459	,	BO725010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1460	,	BO725014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1461	,	BO725014000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1463	,	BO725004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1464	,	BO725013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1465	,	BO726001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1466	,	BO726008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1467	,	BO725018000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1468	,	BO725018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1469	,	BO725016000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1470	,	BO723003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+1471	,	BO723007000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1472	,	BO723010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1475	,	BO728020000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1477	,	BO728008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1478	,	BO724002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1479	,	BO728012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1482	,	BO723006000	,	02	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1485	,	BO723010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1487	,	BO728001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1488	,	BO723004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1489	,	BO724005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1490	,	BO723006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1491	,	BO728005000	,	00	,	00	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1494	,	BO724003000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1495	,	BO726011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1496	,	BO747001004	,	04	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1497	,	BO747001004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1498	,	BO747001001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1502	,	BO737001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1504	,	BO747001011	,	11	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1507	,	BO204016000	,	00	,	06	,	12	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1510	,	BO206010000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1511	,	BO737001009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1512	,	BO747001036	,	36	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1513	,	BO747001008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1514	,	BO737003002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1515	,	BO209001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1516	,	BO203002007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1517	,	BO737001013	,	13	,	13	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1518	,	BO737003001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1519	,	BO737001014	,	14	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1523	,	BO747001017	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1524	,	BO737001004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1525	,	BO737003006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1526	,	BO737003005	,	05	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1527	,	BO747001035	,	35	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1528	,	BO737001018	,	18	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1529	,	BO206004001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1531	,	BO204016000	,	00	,	15	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1532	,	BO203001003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1534	,	BO747001023	,	23	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+1535	,	BO747001009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1537	,	BO747001001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1538	,	BO737001007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1539	,	BO737001012	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1540	,	BO747001011	,	11	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1541	,	BO723005000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1542	,	BO725017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1543	,	BO725019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1544	,	BO725017000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1545	,	BO726007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1546	,	BO728016000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1547	,	BO723002000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1548	,	BO724004000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+1549	,	BO728009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+1550	,	BO728014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1551	,	BO726012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1552	,	BO725005000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1553	,	BO725005000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1554	,	BO725012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1555	,	BO725002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1556	,	BO723007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1557	,	BO725021000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+1558	,	BO725021000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1559	,	BO725011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1561	,	BO723001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1562	,	BO725020000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1563	,	BO725020000	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1564	,	BO726006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1565	,	BO725001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1566	,	BO725004000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1568	,	BO726002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1575	,	PE304003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1584	,	BO747001028	,	28	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1586	,	BO737001005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1587	,	PE102001600	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1588	,	PE102015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1589	,	PE102015001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+1591	,	PE203004001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1594	,	PE203001000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1597	,	PE203008000	,	00	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1598	,	PE203013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1599	,	PE405015001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1801	,	BE100062026	,	26	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1803	,	BE100004001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1819	,	BE100062028	,	28	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1820	,	BE100062036	,	36	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1821	,	BE100062020	,	20	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1822	,	BE100062019	,	19	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1823	,	BE100049003	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1824	,	BE100062029	,	29	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1826	,	BE100062017	,	17	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1829	,	BE100015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1830	,	BE100062008	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1832	,	BE100062014	,	14	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1833	,	BE100062007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1834	,	BE100027000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1835	,	BE100062031	,	31	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1836	,	CO500522001	,	01	,	11	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1857	,	CO600991009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1864	,	CO500528003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1878	,	CO700557000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1880	,	CO600991006	,	01	,	11	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1882	,	CO600986000	,	00	,	11	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1884	,	CO700557000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1888	,	CO300517001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1890	,	CO600537000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1893	,	CO500527010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1894	,	CO700555000	,	03	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1895	,	CO700555000	,	02	,	08	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1901	,	BE100062007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1902	,	BE100062009	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1903	,	CO700559000	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1909	,	BE100019000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1916	,	CO300515002	,	02	,	33	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1948	,	BE100062032	,	32	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1951	,	BE100073000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1955	,	BE100062035	,	35	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1956	,	BE100062023	,	23	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1958	,	BE100062022	,	22	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1959	,	BE100062021	,	21	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1960	,	BE100062033	,	33	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+1962	,	CO600998000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1963	,	CO100506003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1964	,	CO100503000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1967	,	BE100073000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1968	,	BE100073000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1969	,	CO100011001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+1971	,	BE100019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1974	,	CO300516001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1976	,	BE100062013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1978	,	BE100062015	,	15	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1979	,	BE100062010	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1980	,	BE100062012	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1982	,	BE100049002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1984	,	CO300519000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1987	,	CO300517002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+1988	,	BE100049001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1989	,	CO500522003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1990	,	CO300515001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1991	,	BE100062030	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+1994	,	BE100006002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+1995	,	BE100006001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1996	,	BE100062027	,	27	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+1997	,	BE100062025	,	25	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+1998	,	BE100079000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2000	,	BE100073000	,	00	,	05	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2201	,	BO418016000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2202	,	BO728019000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2211	,	BO725007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2213	,	BO792900100	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2215	,	BO729002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2221	,	BO729009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2223	,	BO729002000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2226	,	BO730001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2228	,	BO533001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2229	,	BO729003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2234	,	BO613003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2235	,	BO849042000	,	37	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2236	,	BO849042000	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2237	,	BO849042000	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2238	,	BO849042000	,	26	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2239	,	BO849042000	,	09	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2240	,	BO849042000	,	32	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2244	,	BO642018000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2246	,	BO849042000	,	10	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2247	,	BO849042000	,	18	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2248	,	BO611001000	,	03	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2249	,	BO849042000	,	35	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2250	,	BO849042000	,	28	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2251	,	BO849042000	,	08	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+2253	,	BO849042000	,	27	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2256	,	BO849042000	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2258	,	BO849042000	,	41	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2259	,	BO849042000	,	34	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2261	,	BO849042000	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2262	,	BO849904200	,	23	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2263	,	BO849042000	,	34	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2264	,	BO849042000	,	34	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2265	,	BO612001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2266	,	BO849042000	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2267	,	BO849042000	,	40	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2268	,	BO849042000	,	40	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2271	,	BO849042000	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2275	,	BO639034000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2276	,	BO849042000	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2277	,	BO849042000	,	16	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2278	,	BO849042000	,	25	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2286	,	BO419004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2296	,	BO521003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2297	,	BO521002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2299	,	BO419005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2300	,	BO729004000	,	00	,	03	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2301	,	BO612002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2302	,	BO643002000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2306	,	BO373003005	,	05	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2307	,	BO643002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2308	,	BO622003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2309	,	BO725022000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2310	,	BO643011000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2311	,	BO723005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2312	,	BO642006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2313	,	BO622015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2314	,	BO849042000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2322	,	BO643010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2324	,	BO622003000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2325	,	BO613005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2328	,	BO747001013	,	13	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2331	,	BO204016000	,	00	,	06	,	11	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2332	,	BO204016000	,	00	,	06	,	13	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2333	,	BO204016000	,	00	,	06	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2334	,	BO206011000	,	00	,	01	,	04	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2335	,	BO204016000	,	00	,	10	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2338	,	BO204016000	,	00	,	06	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2339	,	BO204016000	,	00	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2340	,	BO203003006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2346	,	BO204016000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2347	,	BO204016000	,	00	,	13	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2348	,	BO737001011	,	11	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2349	,	BO747001031	,	31	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2350	,	BO747001025	,	25	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+2352	,	BO747001020	,	20	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2356	,	BO204016000	,	00	,	11	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2362	,	BO202005000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2368	,	BO737001006	,	06	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2369	,	BO747001027	,	27	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2370	,	BO747001012	,	12	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2371	,	BO521009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2372	,	BO419002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	8. Con otra u otras personas no parientes
+2373	,	BO521009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2375	,	BO417010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2376	,	BO521004000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2379	,	BO521005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2380	,	BO521005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2382	,	BO521011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2383	,	BO417003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2385	,	BO419003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2391	,	BO521010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2392	,	BO419002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2393	,	BO521004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2397	,	BO521004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2398	,	BO520004010	,	00	,	01	,	00	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2401	,	PE304001001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2402	,	PE304002004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2403	,	PE304010000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2404	,	PE304028000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2405	,	PE203021000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2406	,	PE304028000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2407	,	PE203024000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2408	,	PE203024000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2409	,	PE304027000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2410	,	PE304027000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2411	,	PE304001003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2412	,	PE203022000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2413	,	PE102025000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2414	,	PE102025500	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+2415	,	PE203022000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2416	,	PE304009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2417	,	PE102022000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2418	,	PE304009001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2419	,	PE203005000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2420	,	PE102021000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2422	,	PE304045001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2423	,	PE304019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2424	,	PE304014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2425	,	PE203007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2427	,	PE503050000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2429	,	PE503034000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2430	,	PE304020000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2431	,	PE304044000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2432	,	PE304008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2434	,	PE304035000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2435	,	PE304002003	,	03	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2436	,	PE304041000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2437	,	PE304016000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2438	,	PE304018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2439	,	PE304040001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2440	,	PE304006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2441	,	PE102023000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2442	,	PE203014000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2443	,	PE102011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2444	,	PE102006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2445	,	PE203004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2446	,	PE203016000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2450	,	PE102016000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2451	,	PE102007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2452	,	PE503025000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2453	,	PE503064000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2454	,	PE503061000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2456	,	PE304025000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+2457	,	PE503025001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2458	,	PE503066002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2459	,	PE503051000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2460	,	PE503041000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2461	,	PE304012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2462	,	PE304012000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2463	,	PE203014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2464	,	PE203002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2465	,	PE102003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2466	,	PE503069000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2467	,	PE503053000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2468	,	PE304030001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2469	,	PE304045000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2471	,	PE503058000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2472	,	PE503028001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2473	,	PE503061001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2474	,	PE503062000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2475	,	PE203003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2476	,	PE503046000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2477	,	PE203001001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2478	,	PE304036000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2479	,	PE304043000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2480	,	PE304002001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2481	,	PE102008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2482	,	PE304012000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2483	,	PE203001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2484	,	PE203024000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2485	,	PE203006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2486	,	PE304022000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2487	,	PE304009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2488	,	PE304045000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2489	,	PE304001002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2490	,	PE304002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2491	,	PE304006000	,	00	,	04	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2493	,	PE203019000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2494	,	PE203005001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2496	,	PE304001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2497	,	PE304001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2498	,	PE304017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2499	,	PE203017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2500	,	PE102018000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2501	,	PE405010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2503	,	PE405017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2504	,	PE506005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2505	,	PE503030001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2506	,	PE304006000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2507	,	PE304032000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2508	,	PE405003000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2509	,	PE405012001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2510	,	PE506001001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2511	,	PE503031000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2512	,	PE503031001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2513	,	PE503067001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2514	,	PE102017000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2515	,	PE405007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2516	,	PE405011000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2517	,	PE405011000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2518	,	PE506007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2520	,	PE503069001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2521	,	PE503038000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2522	,	PE405013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2525	,	PE503039000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2527	,	PE304024000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2528	,	PE405001000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+2529	,	PE405005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2530	,	PE503029000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2531	,	PE506003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2533	,	PE503044001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2534	,	PE503056000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2535	,	PE503035000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2536	,	PE102023000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2537	,	PE203009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2538	,	PE405016002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2539	,	PE405012002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2540	,	PE506008001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2541	,	PE405003000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2542	,	PE503049000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2543	,	PE503047000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2544	,	PE304007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2546	,	PE304015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2547	,	PE304039000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2548	,	PE304039000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	7. Con otro u otros hermanos sin los padres
+2549	,	PE102007000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2550	,	PE203020000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2551	,	PE102026000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2553	,	PE503028000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2554	,	PE506008002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2555	,	PE203010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2556	,	PE304001004	,	04	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2557	,	PE102014000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2558	,	PE304034000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2559	,	PE503059000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2560	,	PE304022001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2561	,	PE503057000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2562	,	PE503002600	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2563	,	PE503066001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2564	,	PE503048000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2565	,	PE503045000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2566	,	PE503042000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2567	,	PE503055000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2568	,	PE304023000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2569	,	PE503036000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2570	,	PE304030000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2571	,	PE503032000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2573	,	PE503067001	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2574	,	PE503067001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2575	,	PE304029001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2576	,	PE405006000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2578	,	PE503034000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2579	,	PE503066000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2580	,	PE503027001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2581	,	PE503067000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2582	,	PE304040000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2583	,	PE503030000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2584	,	PE503033000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2585	,	PE405016001	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2586	,	PE405008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2590	,	PE102016000	,	00	,	03	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2593	,	PE102024000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2594	,	PE405002000	,	00	,	02	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2595	,	PE405002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2596	,	PE506001002	,	02	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2597	,	PE503037000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2598	,	PE304026000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2599	,	PE102012001	,	01	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2600	,	PE102024000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2631	,	BO727005000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2632	,	BO727013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2633	,	BO727013000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2634	,	BO727013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2635	,	BO727005000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2638	,	BO727012000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2639	,	BO747001022	,	22	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2640	,	BO727001000	,	01	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2644	,	PE102009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2645	,	PE102017000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2646	,	BO272701100	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2647	,	BO727002000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2648	,	BO727008000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2649	,	BO747001031	,	31	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2651	,	BO737003001	,	01	,	01	,	04	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2653	,	BO737003001	,	01	,	01	,	03	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2659	,	BO747001007	,	07	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	1. Solo
+2661	,	BO727003001	,	01	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2662	,	BO727013000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2663	,	BO727004000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	2. Con el cónyuge sin hijos( parejas sin hijos)
+2701	,	PE503027000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2707	,	PE304030000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2708	,	PE304042000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2709	,	PE503053000	,	00	,	01	,	02	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2752	,	BO747001021	,	21	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	3. Con los hijos solteros y sin el cónyuge
+2753	,	BO727010000	,	00	,	02	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	6. Con la familia nuclear o extensa más otras personas no emparentadas
+2758	,	BO727010000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+2759	,	BO727009000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	5. Con el cónyuge los hijos solteros y otros parientes (hijos casados, padres, suegros, hermanos, cuñados etc)
+2766	,	BO727015000	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros
+9999999999	,	FG123321234	,	00	,	01	,	01	,	4.5 ¿Con quién vive el jefe del hogar?	,	4. Con el cónyuge y los hijos solteros

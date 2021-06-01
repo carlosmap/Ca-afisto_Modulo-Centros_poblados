@@ -1,0 +1,87 @@
+0012	,	BO407017000	,	00	,	04	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+0022	,	BO407007000	,	00	,	01	,	03	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+0057	,	BO643016000	,	01	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+0080	,	BO148999009	,	09	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+0087	,	BO148999037	,	37	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0102	,	CO500529003	,	03	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0103	,	CO600990004	,	04	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+0163	,	CO600532010	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	6. Entre 7 meses y menos de 9 meses
+0165	,	CO600539001	,	01	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+0189	,	FR300223008	,	08	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+0229	,	FR300242003	,	03	,	09	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+0238	,	FR300224010	,	10	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+0291	,	FR300223011	,	11	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+0292	,	FR300224001	,	01	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0294	,	FR300224004	,	04	,	01	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+0296	,	FR300224072	,	72	,	01	,	03	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0319	,	FR300224054	,	54	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0340	,	CO700550004	,	00	,	05	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0356	,	CO600992000	,	00	,	01	,	00	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0376	,	CO600991004	,	04	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0412	,	BO206007000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0451	,	BO148999011	,	11	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+0491	,	BO338009000	,	00	,	00	,	00	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0524	,	BO639063000	,	00	,	01	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0529	,	FR300224100	,	10	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	5. Entre 5 meses y menos de 7 meses
+0532	,	FR300224083	,	83	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+0546	,	FR300224093	,	93	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+0610	,	BO641004000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0617	,	BO645005000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0626	,	BO417006000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+0649	,	BO641008000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0660	,	BO206007001	,	01	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0678	,	BO205001000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+0680	,	BO205001000	,	00	,	02	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+0705	,	BO206011000	,	00	,	01	,	00	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0770	,	BO613011000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0824	,	BO645001000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0827	,	BO639026000	,	00	,	01	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+0836	,	BO639007000	,	00	,	01	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0845	,	BO645002000	,	04	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	6. Entre 7 meses y menos de 9 meses
+0851	,	BO206003001	,	01	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+0931	,	CO500527001	,	01	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0936	,	BE100062005	,	05	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+0956	,	BO514001003	,	03	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+0961	,	BO417013000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+1214	,	BO728003000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+1278	,	BO734004000	,	00	,	05	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+1294	,	BO747001024	,	24	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+1332	,	BO728017000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+1333	,	BO725011000	,	00	,	02	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+1418	,	BO417001000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	5. Entre 5 meses y menos de 7 meses
+1438	,	BO725005000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+1515	,	BO209001000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+1529	,	BO206004001	,	01	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+1544	,	BO725017000	,	00	,	02	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+1558	,	BO725021000	,	00	,	02	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	5. Entre 5 meses y menos de 7 meses
+1830	,	BE100062008	,	08	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+1878	,	CO700557000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+1909	,	BE100019000	,	00	,	03	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+1987	,	CO300517002	,	02	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+2228	,	BO533001000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+2235	,	BO849042000	,	37	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+2238	,	BO849042000	,	26	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+2286	,	BO419004000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+2322	,	BO643010000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+2362	,	BO202005000	,	00	,	02	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+2372	,	BO419002000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+2373	,	BO521009000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+2393	,	BO521004000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+2403	,	PE304010000	,	00	,	02	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+2405	,	PE203021000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	9. No aplica
+2442	,	PE203014000	,	00	,	01	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+2458	,	PE503066002	,	02	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+2460	,	PE503041000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+2464	,	PE203002000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+2515	,	PE405007000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	1. Hizo visitas esporádicas u ocasionales
+2516	,	PE405011000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	5. Entre 5 meses y menos de 7 meses
+2517	,	PE405011000	,	00	,	01	,	02	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+2535	,	PE503035000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+2561	,	PE503057000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+2567	,	PE503055000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	3. Entre 1 mes y menos de 3 meses
+2570	,	PE304030000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+2577	,	PE405004000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses
+2584	,	PE503033000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	4. Entre 3 meses y menos de 5 meses
+2595	,	PE405002000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	2. Menos de un mes
+2663	,	BO727004000	,	00	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	7. Entre 9 meses y menos de 11 meses
+2752	,	BO747001021	,	21	,	01	,	01	,	4.7 ¿Durante el año 2011 cuántos meses permaneció en esta vivienda?	,	8. 12 meses

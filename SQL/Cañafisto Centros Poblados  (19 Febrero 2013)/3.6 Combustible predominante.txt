@@ -1,0 +1,1210 @@
+0001	,	BO338005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0002	,	BO407017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0003	,	BO407017000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0004	,	BO338011000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0007	,	BO338010000	,	01	,	02	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0009	,	BO407015000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0011	,	BO407017000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0012	,	BO407017000	,	00	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0016	,	BO407009000	,	00	,	00	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0018	,	BO520003007	,	07	,	07	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0019	,	BO338006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0020	,	BO338008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0022	,	BO407007000	,	00	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0024	,	BO338001000	,	01	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0027	,	BO338002000	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0030	,	BO410001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0033	,	BO338007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0035	,	BO641012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0036	,	BO642017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0039	,	BO641002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0041	,	CO600991002	,	02	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0046	,	BO643023000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0047	,	BO641005000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0048	,	BO642018000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0049	,	BO643023000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0050	,	BO641019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0051	,	BO642004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0052	,	BO643001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0053	,	BO640001006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0054	,	BO642002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0055	,	BO643013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0058	,	BO642006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0059	,	BO641021000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0060	,	BO643022000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0061	,	BO641001000	,	00	,	00	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0062	,	BO639049000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0063	,	BO639045000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0065	,	BO639031000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0066	,	BO639052008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0067	,	BO639042000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0068	,	BO148999001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0071	,	BO148999000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0072	,	BO148999021	,	21	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0074	,	BO148999048	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0075	,	BO203002001	,	01	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0076	,	BO148999008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0077	,	BO148999024	,	24	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0078	,	BO148999039	,	39	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0079	,	BO148999043	,	43	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0080	,	BO148999009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0081	,	BO148999041	,	41	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0082	,	BO148999017	,	17	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0083	,	BO148999038	,	38	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0084	,	BO148999006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0086	,	BO148999051	,	51	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0087	,	BO148999037	,	37	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0088	,	bo148999004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0089	,	BO148999007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0092	,	BO148999002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0095	,	BO148999050	,	50	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0096	,	BO148999040	,	40	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0098	,	BO148999014	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0099	,	BO148999042	,	42	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0100	,	BO148999026	,	26	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0101	,	CO600967001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0102	,	CO500529003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0103	,	CO600990004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0104	,	CO600532005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0105	,	CO600990003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0106	,	CO600990005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0107	,	CO600990001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0108	,	CO600954000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0109	,	CO600941000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0110	,	CO600965002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0111	,	CO600967002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0112	,	CO600984000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0113	,	CO600990006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0114	,	CO600996000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0116	,	CO600532025	,	25	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0117	,	CO600970000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0118	,	CO600958000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0119	,	CO600990002	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0120	,	CO600974000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0121	,	CO600532002	,	02	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0122	,	CO600990008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0123	,	CO600941000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0125	,	CO600985000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0126	,	CO600980000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0127	,	CO600953000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0128	,	CO600994002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0131	,	CO600939000	,	00	,	11	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0132	,	CO600969000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0133	,	CO600964000	,	00	,	11	,	11	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0134	,	CO600532003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0136	,	CO600532001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0137	,	CO600996001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0138	,	CO600938002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0139	,	CO600994001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0140	,	CO600996000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0141	,	CO600994003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0142	,	CO600966002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0143	,	CO600988000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0144	,	CO600987000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0146	,	CO600983000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0147	,	CO600532009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0149	,	CO600965001	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0150	,	CO700562000	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0151	,	CO600966001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0152	,	CO600532004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0153	,	CO600532007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0155	,	CO600975000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0156	,	CO600991005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0158	,	CO600991008	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0160	,	CO600991007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0161	,	CO600532008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0163	,	CO600532010	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0164	,	CO600532011	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0165	,	CO600539001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0166	,	FR300214002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0167	,	FR300224013	,	13	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0168	,	FR300224024	,	24	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0169	,	FR300224069	,	69	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0170	,	FR300214001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0172	,	FR300214003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0173	,	FR300214006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0176	,	FR300214005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0177	,	FR300214008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0178	,	FR300214004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0179	,	FR300224089	,	89	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0180	,	FR300224011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0181	,	FR300214007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0182	,	FR300214007	,	07	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0183	,	FR300214001	,	01	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0184	,	FR300224033	,	33	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0185	,	FR300224065	,	65	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0186	,	FR300224089	,	89	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0187	,	FR300224099	,	99	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0188	,	FR300225004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0189	,	FR300223008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0190	,	FR300282002	,	02	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0191	,	FR300214000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0192	,	FR300224012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0193	,	FR300223008	,	08	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0194	,	FR300223010	,	10	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0195	,	FR300210002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0197	,	FR300279000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0198	,	FR300280000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0199	,	FR300220000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0201	,	FR300223003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0205	,	FR300242003	,	03	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0207	,	FR300242003	,	03	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0208	,	FR300242003	,	03	,	10	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0209	,	FR300242002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0210	,	FR300223009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0211	,	FR300223012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0212	,	FR300242001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0213	,	FR300242003	,	03	,	08	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0214	,	FR300242003	,	03	,	07	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0215	,	FR300223013	,	13	,	13	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0217	,	FR300101000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0218	,	FR300242003	,	03	,	11	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0219	,	FR300222001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0220	,	FR300222003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0221	,	FR300242003	,	03	,	06	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0222	,	FR300242003	,	03	,	06	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0223	,	FR300223017	,	17	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0224	,	FR300242003	,	03	,	12	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0225	,	FR300223018	,	18	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0226	,	FR300224003	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0227	,	FR300242003	,	05	,	05	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0228	,	FR300242003	,	00	,	15	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0229	,	FR300242003	,	03	,	09	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0231	,	FR300242003	,	03	,	07	,	02	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0232	,	FR300224050	,	50	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0233	,	FR300224006	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0235	,	FR300224029	,	29	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0236	,	PE300224029	,	29	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0237	,	FR300224036	,	36	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0238	,	FR300224010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0240	,	FR300224053	,	53	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0241	,	FR300224006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0242	,	FR300224019	,	19	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0243	,	FR300224030	,	30	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0245	,	FR300224055	,	55	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0246	,	FR300224010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0247	,	FR300224027	,	27	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0248	,	FR300224040	,	40	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0249	,	FR300224063	,	63	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0250	,	FR300224061	,	61	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0251	,	FR300224017	,	17	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0252	,	FR300224026	,	26	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0253	,	FR300224039	,	39	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0254	,	FR300224001	,	01	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0255	,	FR300224028	,	28	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0256	,	FR300224049	,	49	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0257	,	FR300224058	,	58	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0258	,	FR300224002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0259	,	FR300224021	,	21	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0260	,	FR300224067	,	67	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0261	,	PE102004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0262	,	PE304019001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0263	,	FR300224103	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0264	,	FR300225003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0265	,	FR300225010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0266	,	FR300224046	,	46	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0267	,	FR300224048	,	48	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0268	,	PE405015002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0269	,	FR300224045	,	45	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0270	,	FR300224070	,	70	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0272	,	FR300224044	,	44	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0273	,	FR300224043	,	43	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0274	,	FR300224068	,	68	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0275	,	FR300224052	,	52	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0276	,	FR300224087	,	87	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0277	,	FR300223002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0278	,	FR300224098	,	98	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0279	,	FR300225006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0280	,	FR300225007	,	07	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0281	,	FR300223006	,	06	,	06	,	01	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0282	,	FR300223005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0283	,	FR300222002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0284	,	FR300223010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0285	,	FR300223020	,	20	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0286	,	FR300242003	,	03	,	11	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0287	,	FR300224051	,	51	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0288	,	FR300220000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0289	,	FR300223007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0290	,	FR300272000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0291	,	FR300223011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0292	,	FR300224001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0293	,	FR300224004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0294	,	FR300224004	,	04	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0295	,	FR300224041	,	41	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0296	,	FR300224072	,	72	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0297	,	FR300224037	,	37	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0298	,	FR300224077	,	77	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0299	,	FR300224104	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0300	,	FR300224057	,	57	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0301	,	FR300282002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0302	,	FR300282001	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0303	,	FR300281001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0304	,	FR300281003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0305	,	FR300224044	,	44	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0306	,	FR300281003	,	03	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0307	,	FR300223021	,	21	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0308	,	FR300224022	,	22	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0309	,	FR300210001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0310	,	FR300223019	,	19	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0311	,	FR300224020	,	20	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0312	,	FR300224072	,	72	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0313	,	PE300224032	,	32	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0314	,	FR300224097	,	97	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0315	,	FR300224016	,	16	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0316	,	FR300224034	,	34	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0317	,	FR300224016	,	16	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0318	,	FR300224035	,	35	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0319	,	FR300224054	,	54	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0320	,	FR300224059	,	59	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0321	,	FR300224073	,	73	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0322	,	FR300224056	,	56	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0324	,	FR300224106	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0325	,	FR300224091	,	91	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0326	,	FR300224094	,	94	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0327	,	FR300224075	,	75	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0330	,	CO600539004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0331	,	CO600539005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0334	,	CO600532028	,	28	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0335	,	CO600532020	,	20	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0336	,	CO600532024	,	24	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0338	,	CO700550004	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0339	,	CO500528002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0340	,	CO700550004	,	00	,	05	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0341	,	CO500529002	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0342	,	CO500527002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0345	,	CO600982000	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0346	,	CO500525012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0348	,	CO700550004	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0349	,	CO700550004	,	00	,	05	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0350	,	FR300225009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0351	,	CO500527018	,	18	,	13	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0353	,	CO600971000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0354	,	CO700550004	,	00	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0355	,	CO500529001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0356	,	CO600992000	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0358	,	CO600532013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0359	,	CO500529002	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0361	,	CO600532023	,	23	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0362	,	CO600532019	,	19	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0363	,	CO600532029	,	29	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0364	,	CO600532015	,	15	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0365	,	CO600532016	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0366	,	CO700550004	,	00	,	02	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0367	,	CO700553000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0368	,	CO600532027	,	27	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0369	,	CO500529002	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0370	,	CO600532018	,	18	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0371	,	CO600532017	,	17	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0372	,	CO500525005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0375	,	CO300518001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0376	,	CO600991004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0377	,	CO600991003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0379	,	BE100062034	,	34	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0380	,	CO500525007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0381	,	BO338009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0382	,	BO407001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0383	,	BO407001000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0384	,	BO407014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0385	,	BO407011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0386	,	BO407009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0389	,	BO407017000	,	00	,	01	,	05	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0390	,	BO407017000	,	00	,	06	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0392	,	BO407013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0394	,	BO407013000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0395	,	BO407014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0397	,	BO407004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0398	,	BO407003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0400	,	BO338009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0401	,	BO338009000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0402	,	BO410001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0403	,	BO410001000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0405	,	BO148999033	,	33	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0407	,	BO148999003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0409	,	BO148999027	,	21	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0414	,	BO148999022	,	22	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0416	,	BO148999044	,	44	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0417	,	BO148999052	,	52	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0419	,	BO148999020	,	20	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0423	,	BO148999046	,	46	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0427	,	BO148999053	,	53	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0428	,	BO148999076	,	76	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0430	,	BO643025000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0431	,	BO642019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0432	,	BO642011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0433	,	BO642014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0434	,	BO643008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0435	,	BO643004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0436	,	BO642010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0437	,	BO643011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0438	,	BO643018000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0439	,	BO643018000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0440	,	BO642015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0441	,	BO642005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0444	,	BO639052005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0446	,	BO639052004	,	04	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0447	,	BO643017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0448	,	BO639052008	,	08	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0449	,	BO641005000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0450	,	BO639052000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0453	,	BO148999018	,	18	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0456	,	BO639042000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0457	,	BO639012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0458	,	BI639046000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0459	,	BO639052000	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0461	,	BO639052001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0462	,	BO639047000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0464	,	BO622004000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0465	,	BO639022000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0466	,	BO410001000	,	00	,	08	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0472	,	BO201001011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0473	,	BO201001004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0475	,	BO206003002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0476	,	BO148999049	,	49	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0477	,	BO148999069	,	69	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0479	,	BO148999070	,	70	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0480	,	BO148999070	,	70	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0482	,	BO148999063	,	63	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0483	,	BO203003004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0487	,	BO338007000	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0490	,	BO338007000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0491	,	BO338009000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0495	,	BO407007000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0496	,	BO520004002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0497	,	BO639032000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0498	,	BO639035000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0499	,	BO639020000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0500	,	BO639012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0501	,	BO639033000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0502	,	BO639023000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0503	,	BO639040000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0509	,	BO693038000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0511	,	BO639025000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0512	,	BO642001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0514	,	BO622003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0515	,	BO639029000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0516	,	BO639016000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0518	,	BO639017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0520	,	BO639019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0521	,	BO639037000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0523	,	BO639021000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0525	,	BO639041000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0526	,	PE203023000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0527	,	FR300224097	,	97	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0528	,	FR300224076	,	76	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0529	,	FR300224100	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0530	,	FR300224101	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0531	,	FR300224113	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0532	,	FR300224083	,	83	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0533	,	FR300224096	,	96	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0534	,	FR300224101	,	01	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0535	,	FR300225002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0537	,	FR300224090	,	90	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0538	,	FR300224109	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0540	,	FR300224094	,	94	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0541	,	FR300224080	,	80	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0542	,	FR300224105	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0543	,	FR300225002	,	02	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0544	,	FR300225011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0545	,	FR300334084	,	84	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0546	,	FR300224093	,	93	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0547	,	FR300224102	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0550	,	BO407013000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0552	,	BO407013000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0553	,	BO410002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0554	,	BO639052005	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0555	,	BO639052000	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0556	,	BO148999055	,	55	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0557	,	BO148999054	,	54	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0558	,	BO639052000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0559	,	BO639030000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0560	,	BO520003008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0561	,	BO639052000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0562	,	BO639050000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0563	,	BO639052000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0564	,	BO148999057	,	57	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0565	,	BO148999065	,	65	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0567	,	BO148999070	,	70	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0569	,	BO148999058	,	58	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0570	,	BO148999066	,	66	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0571	,	BO148999075	,	75	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0574	,	BO148999059	,	59	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0575	,	BO148999077	,	77	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0577	,	BO410001000	,	00	,	05	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0578	,	BO148999045	,	45	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0579	,	BO148999072	,	72	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0582	,	BO338000000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0583	,	BO520003001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0584	,	BO410002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0589	,	BO639018000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0590	,	BO639024000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0594	,	BO419002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0595	,	BO520003009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0596	,	BO520004006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0599	,	BO408001003	,	03	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0600	,	BO408001004	,	04	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0601	,	FR300225001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0602	,	FR300224074	,	74	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0603	,	FR300224114	,	14	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0604	,	FR300224013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0605	,	FR300224018	,	18	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0607	,	FR300224079	,	79	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0608	,	FR300221005	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0609	,	BO639029000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0612	,	BO849042000	,	17	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0613	,	BO849042000	,	30	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0616	,	BO612005000	,	08	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0617	,	BO645005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0618	,	BO643009000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0622	,	BO643009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0626	,	BO417006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0628	,	BO417001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0629	,	BO417001000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0630	,	BO417001000	,	00	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0631	,	BO417011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0632	,	BO417008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0633	,	BO417002000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0635	,	BO229007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0636	,	BO520004009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0637	,	BO520003003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0638	,	BO520004014	,	14	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0641	,	BO417001000	,	00	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0642	,	BO417001000	,	00	,	04	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0643	,	BO520004008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0644	,	BO516002000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0649	,	BO641008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0650	,	BO639048000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0655	,	BO622012000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0661	,	BO747001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0662	,	BO206004001	,	01	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0665	,	BO747001019	,	19	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0669	,	BO205001002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0670	,	BO206009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0671	,	BO205003003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0672	,	BO203001009	,	09	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0673	,	BO148999018	,	18	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0675	,	BO206003003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0676	,	BO737001015	,	15	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0677	,	BO206007001	,	01	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0681	,	BO747001016	,	16	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0682	,	BO203002002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0683	,	BO747001014	,	14	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0684	,	BO737003004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0685	,	BO148999068	,	68	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0686	,	BO747001032	,	32	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0689	,	BO730001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0690	,	BO730008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0691	,	BO730003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0694	,	BO407009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0697	,	BO613004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0699	,	BO611003000	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0700	,	BO611003000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0701	,	BO203001009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0703	,	BO203003003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0704	,	BO203002008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0708	,	BO203002013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0714	,	BO613001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0717	,	BO645002000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0718	,	BO611001000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0719	,	BO643052000	,	03	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0721	,	BO641012000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0724	,	BO613007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0727	,	BO611003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0732	,	BO613009000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0734	,	BO613008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0736	,	BO737001022	,	22	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0740	,	BO730004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0745	,	BO726001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0749	,	BO730007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0751	,	BO725009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0752	,	BO726005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0755	,	BO612002000	,	00	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0756	,	BO849042000	,	19	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0758	,	BO729004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0759	,	BO726005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0760	,	BO725007000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0762	,	BO514001009	,	09	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0763	,	BO730006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0765	,	BO611001000	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0766	,	BO611001000	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0769	,	BO613005000	,	05	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0770	,	BO613011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0771	,	BO613005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0772	,	BO417005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0774	,	BO514001000	,	07	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0776	,	FR300224047	,	47	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0777	,	FR300242003	,	03	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0778	,	FR300224092	,	92	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0779	,	FR300224107	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0780	,	CO500527011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0781	,	CO500527004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0782	,	CO500525009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0783	,	CO500525015	,	15	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0784	,	CO500525013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0785	,	CO700556000	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0786	,	CO500525010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0787	,	CO500525001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0790	,	CO500525014	,	14	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0791	,	B0206010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0793	,	BO203003005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0794	,	BO206011002	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0795	,	BO205003001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0797	,	BO206011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0798	,	BO201001013	,	13	,	03	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0799	,	BO206009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0800	,	BO203002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0801	,	CO600957000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0803	,	CO500525006	,	06	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0805	,	CO500527005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0806	,	CO500252011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0807	,	CO500522001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0810	,	BE100013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0811	,	CO300518002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0812	,	CO500527012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0813	,	CO500527013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0814	,	CO500527015	,	15	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0815	,	CO700558000	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0817	,	BO417015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0818	,	BO639008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0819	,	BO639012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0820	,	BO639028000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0823	,	BO622014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0825	,	BO622006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0826	,	BO639026000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0827	,	BO639026000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0828	,	BO645002000	,	02	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0829	,	BO639006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0830	,	BO639005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0832	,	BO639011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0834	,	BO639004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0835	,	BO639007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0836	,	BO639007000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0838	,	BO639052000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0840	,	BO622007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0841	,	BO520004012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0842	,	BO639007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0843	,	BO645002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0845	,	BO645002000	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0854	,	BO148999034	,	34	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0856	,	BO201001013	,	13	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0864	,	BO203002006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0865	,	BO206002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0867	,	BO206007000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0868	,	BO206003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0869	,	BO201001013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0871	,	BO203002003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0874	,	BO203003001	,	01	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0875	,	BO203003002	,	01	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0876	,	FR300224081	,	81	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0877	,	FR300224081	,	81	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0878	,	FR300225005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0880	,	FR300224078	,	78	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0881	,	FR300224086	,	86	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0882	,	FR300224108	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0883	,	FR300225006	,	06	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0884	,	FR300224112	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0885	,	FR300224025	,	25	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0886	,	FR300225008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0887	,	PE304002002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+0888	,	FR300224095	,	95	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0889	,	FR300224110	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0890	,	PE102013000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0893	,	FR300224087	,	87	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0894	,	FR300225013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0895	,	FR300225007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0897	,	PE203021000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0898	,	PE304004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0899	,	PE203010000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0900	,	PE102013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0901	,	PE102013000	,	00	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0902	,	FR300224015	,	15	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0903	,	FR300224015	,	15	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0904	,	PE506008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0905	,	FR300224023	,	23	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+0906	,	FR300224042	,	42	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0907	,	FR300224066	,	66	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0908	,	FR300224062	,	62	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0909	,	PE102005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0910	,	PE102015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0911	,	PE102012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0913	,	PE102012002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0914	,	PE102008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0915	,	PE203018000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0916	,	PE304037000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0917	,	PE102012001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0918	,	PE102011000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0919	,	PE503044000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0921	,	PE304005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0922	,	FR300224007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0923	,	FR300224006	,	60	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0925	,	CO500527006	,	06	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0926	,	CO500525004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0927	,	CO600994000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0929	,	CO500527009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0930	,	CO600968000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0931	,	CO500527001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0932	,	CO500527014	,	14	,	14	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0933	,	CO700550004	,	00	,	04	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0934	,	CO500527003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0935	,	CO700560001	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0936	,	BE100062005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0937	,	be100062001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0939	,	FR300224085	,	85	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0940	,	CO600994004	,	04	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0941	,	CO600961000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0942	,	CO600962000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0943	,	CO600990009	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0944	,	CO600941000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0945	,	CO500522002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0946	,	CO500525002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0947	,	CO500525006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0948	,	CO500525005	,	05	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0949	,	CO500525013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0950	,	BO417006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0951	,	BO417006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0952	,	BO417007000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0953	,	BO417014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0954	,	BO520003006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0956	,	BO514001003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0958	,	BO514001003	,	03	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0959	,	BO417012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0961	,	BO417013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0962	,	BO639027000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0963	,	BO639043000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0964	,	BO622014000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0965	,	BO622006000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0968	,	BO641012000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0969	,	BO645002000	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0970	,	BO645002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0973	,	BO622011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0974	,	BO622004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0975	,	FR300224072	,	72	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0976	,	BO410003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0979	,	BO520004004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+0985	,	BO520003010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0986	,	BO516001000	,	03	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0988	,	BO516001000	,	05	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+0989	,	BO520004007	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0990	,	BO520004004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0993	,	BO516001000	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0994	,	BO520004001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+0997	,	BO516002000	,	01	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1000	,	BO520004011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1203	,	CO600998002	,	02	,	45	,	11	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+1205	,	CO600976000	,	00	,	11	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1210	,	CO100506002	,	02	,	12	,	11	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1214	,	BO728003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1216	,	BO728006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1217	,	BO728022000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1218	,	BO728007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1219	,	BO724005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1221	,	BO725003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1224	,	BO728015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1226	,	BO728010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1227	,	BO723009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1232	,	BO734001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1233	,	BO734001000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1242	,	BO734004000	,	00	,	03	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1243	,	BO734004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1244	,	BO514001004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1247	,	BO730005000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1252	,	BO730005000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1258	,	BO730001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1259	,	BO730006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1261	,	BO734002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1262	,	BO645002000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1278	,	BO734004000	,	00	,	05	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1279	,	BO734005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1326	,	BO724002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1327	,	BO728013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1328	,	BO723008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1330	,	BO728010000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+1331	,	BO728021000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1332	,	BO728017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1333	,	BO725011000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1336	,	BO734003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1338	,	BO724004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1339	,	BO730007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1350	,	BO734007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+1356	,	BO734004000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+1358	,	BO730005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1414	,	BO521007000	,	00	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1418	,	BO417001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1421	,	BO728019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1422	,	BO724001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1430	,	BO148999029	,	29	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1431	,	BO737001008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1432	,	BO737001002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1433	,	BO737003003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1434	,	BO737001019	,	19	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1435	,	BO747001015	,	15	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1436	,	BO725008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1437	,	BO725008000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1438	,	BO725005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1439	,	BO725006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1440	,	BO725015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1441	,	BO725001000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1442	,	BO723006000	,	01	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1443	,	BO726009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1444	,	BO737001016	,	16	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1445	,	BO737001015	,	15	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1446	,	BO747001034	,	34	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1447	,	BO737001004	,	04	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1448	,	BO737001003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1451	,	BO747001033	,	33	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1452	,	BO737001017	,	17	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1454	,	BO726001000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1455	,	BO725010000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1457	,	BO737001020	,	20	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1458	,	BO747001011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1459	,	BO725010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1460	,	BO725014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1461	,	BO725014000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1463	,	BO725004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1464	,	BO725013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1465	,	BO726001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1466	,	BO726008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1467	,	BO725018000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1468	,	BO725018000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1469	,	BO725016000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1470	,	BO723003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1471	,	BO723007000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1472	,	BO723010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1475	,	BO728020000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1477	,	BO728008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1478	,	BO724002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1479	,	BO728012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1482	,	BO723006000	,	02	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1485	,	BO723010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1487	,	BO728001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1488	,	BO723004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1489	,	BO724005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1490	,	BO723006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1494	,	BO724003000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1495	,	BO726011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1496	,	BO747001004	,	04	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1497	,	BO747001004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1498	,	BO747001001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1501	,	BO204016000	,	00	,	23	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1502	,	BO737001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+1507	,	BO204016000	,	00	,	06	,	12	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1508	,	BO209001002	,	02	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+1510	,	BO206010000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1511	,	BO737001009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1512	,	BO747001036	,	36	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1513	,	BO747001008	,	08	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1514	,	BO737003002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1515	,	BO209001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1516	,	BO203002007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1517	,	BO737001013	,	13	,	13	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1518	,	BO737003001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1519	,	BO737001014	,	14	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1520	,	BO209001002	,	02	,	04	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1523	,	BO747001017	,	17	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1524	,	BO737001004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1525	,	BO737003006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1526	,	BO737003005	,	05	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1527	,	BO747001035	,	35	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1528	,	BO737001018	,	18	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1531	,	BO204016000	,	00	,	15	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1532	,	BO203001003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1534	,	BO747001023	,	23	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1535	,	BO747001009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1537	,	BO747001001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1538	,	BO737001007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1539	,	BO737001012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1540	,	BO747001011	,	11	,	01	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1541	,	BO723005000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1542	,	BO725017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1543	,	BO725019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1544	,	BO725017000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1545	,	BO726007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1546	,	BO728016000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1547	,	BO723002000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1548	,	BO724004000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1549	,	BO728009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1550	,	BO728014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1551	,	BO726012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1552	,	BO725005000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1553	,	BO725005000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1554	,	BO725012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1555	,	BO725002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1556	,	BO723007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1557	,	BO725021000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1558	,	BO725021000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1559	,	BO725011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1561	,	BO723001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1562	,	BO725020000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1563	,	BO725020000	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1564	,	BO726006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1565	,	BO725001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1566	,	BO725004000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1568	,	BO726002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1575	,	PE304003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1584	,	BO747001028	,	28	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1586	,	BO737001005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1587	,	PE102001600	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1588	,	PE102015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1589	,	PE102015001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1591	,	PE203004001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1594	,	PE203001000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1597	,	PE203008000	,	00	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1598	,	PE203013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1599	,	PE405015001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1801	,	BE100062026	,	26	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1803	,	BE100004001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1804	,	BE100073000	,	00	,	04	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1819	,	BE100062028	,	28	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1820	,	BE100062036	,	36	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+1821	,	BE100062020	,	20	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1822	,	BE100062019	,	19	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1823	,	BE100049003	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1824	,	BE100062029	,	29	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1826	,	BE100062017	,	17	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1827	,	BE100016000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1829	,	BE100015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1833	,	BE100062007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1834	,	BE100027000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1835	,	BE100062031	,	31	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1836	,	CO500522001	,	01	,	11	,	11	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1857	,	CO600991009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1861	,	CO500525008	,	08	,	88	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1864	,	CO500528003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1878	,	CO700557000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1880	,	CO600991006	,	01	,	11	,	11	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1884	,	CO700557000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1888	,	CO300517001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1889	,	CO300517003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1890	,	CO600537000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1893	,	CO500527010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1894	,	CO700555000	,	03	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1895	,	CO700555000	,	02	,	08	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1901	,	BE100062007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1902	,	BE100062009	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1903	,	CO700559000	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1904	,	CO600972000	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1909	,	BE100019000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1916	,	CO300515002	,	02	,	33	,	11	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1931	,	BE100062002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1948	,	BE100062032	,	32	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1951	,	BE100073000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1955	,	BE100062035	,	35	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1956	,	BE100062023	,	23	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1958	,	BE100062022	,	22	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1959	,	BE100062021	,	21	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1960	,	BE100062033	,	33	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1962	,	CO600998000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1963	,	CO100506003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1964	,	CO100503000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1967	,	BE100073000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1968	,	BE100073000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1969	,	CO100011001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1970	,	BE100033002	,	02	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1971	,	BE100019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1972	,	CO600532002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1974	,	CO300516001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1976	,	BE100062013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1978	,	BE100062015	,	15	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1979	,	BE100062010	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1980	,	BE100062012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1982	,	BE100049002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1984	,	CO300519000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1987	,	CO300517002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1988	,	BE100049001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1989	,	CO500522003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1990	,	CO300515001	,	01	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1991	,	BE100062030	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1994	,	BE100006002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+1995	,	BE100006001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1996	,	BE100062027	,	27	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1997	,	BE100062025	,	25	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+1998	,	BE100079000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2000	,	BE100073000	,	00	,	05	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2202	,	BO728019000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2211	,	BO725007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2213	,	BO792900100	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2215	,	BO729002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2221	,	BO729009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2223	,	BO729002000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2226	,	BO730001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2228	,	BO533001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2229	,	BO729003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2234	,	BO613003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2235	,	BO849042000	,	37	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2236	,	BO849042000	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2237	,	BO849042000	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2238	,	BO849042000	,	26	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2239	,	BO849042000	,	09	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2240	,	BO849042000	,	32	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2244	,	BO642018000	,	00	,	02	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2246	,	BO849042000	,	10	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2247	,	BO849042000	,	18	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2248	,	BO611001000	,	03	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2249	,	BO849042000	,	35	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2250	,	BO849042000	,	28	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2253	,	BO849042000	,	27	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2256	,	BO849042000	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2257	,	BO849042000	,	22	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2258	,	BO849042000	,	41	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2261	,	BO849042000	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2262	,	BO849904200	,	23	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2263	,	BO849042000	,	34	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2264	,	BO849042000	,	34	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2265	,	BO612001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2266	,	BO849042000	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2267	,	BO849042000	,	40	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2268	,	BO849042000	,	40	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2271	,	BO849042000	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2275	,	BO639034000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+2276	,	BO849042000	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2277	,	BO849042000	,	16	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2278	,	BO849042000	,	25	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2279	,	BO849042000	,	29	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2286	,	BO419004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2296	,	BO521003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2297	,	BO521002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2299	,	BO419005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2300	,	BO729004000	,	00	,	03	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2301	,	BO612002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2302	,	BO643002000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2303	,	BO611003000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2306	,	BO373003005	,	05	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2307	,	BO643002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2308	,	BO622003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2309	,	BO725022000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2310	,	BO643011000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2311	,	BO723005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2313	,	BO622015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2322	,	BO643010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2324	,	BO622003000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2325	,	BO613005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2328	,	BO747001013	,	13	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2331	,	BO204016000	,	00	,	06	,	11	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2332	,	BO204016000	,	00	,	06	,	13	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2333	,	BO204016000	,	00	,	06	,	03	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2334	,	BO206011000	,	00	,	01	,	04	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2335	,	BO204016000	,	00	,	10	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2338	,	BO204016000	,	00	,	06	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2339	,	BO204016000	,	00	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2340	,	BO203003006	,	06	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2341	,	BO204016000	,	00	,	16	,	00	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+2346	,	BO204016000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2348	,	BO737001011	,	11	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2349	,	BO747001031	,	31	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2352	,	BO747001020	,	20	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2356	,	BO204016000	,	00	,	11	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2362	,	BO202005000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2364	,	BO202007000	,	00	,	02	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2370	,	BO747001012	,	12	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2371	,	BO521009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2372	,	BO419002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2373	,	BO521009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2375	,	BO417010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2376	,	BO521004000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2379	,	BO521005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2380	,	BO521005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2383	,	BO417003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2385	,	BO419003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2386	,	BO521001000	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	5. Gas natural domiciliario
+2391	,	BO521010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2392	,	BO419002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2393	,	BO521004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2397	,	BO521004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2398	,	BO520004010	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2401	,	PE304001001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2402	,	PE304002004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2403	,	PE304010000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2404	,	PE304028000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2405	,	PE203021000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2406	,	PE304028000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2407	,	PE203024000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2408	,	PE203024000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2409	,	PE304027000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2410	,	PE304027000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2411	,	PE304001003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2412	,	PE203022000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2413	,	PE102025000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2414	,	PE102025500	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2415	,	PE203022000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2416	,	PE304009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2417	,	PE102022000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2418	,	PE304009001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2419	,	PE203005000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2422	,	PE304045001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2423	,	PE304019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2424	,	PE304014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2425	,	PE203007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2427	,	PE503050000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2428	,	PE503040000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2429	,	PE503034000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2430	,	PE304020000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2431	,	PE304044000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2432	,	PE304008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2434	,	PE304035000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2435	,	PE304002003	,	03	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2436	,	PE304041000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2437	,	PE304016000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2438	,	PE304018000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+2439	,	PE304040001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2440	,	PE304006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2441	,	PE102023000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2442	,	PE203014000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2443	,	PE102011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2444	,	PE102006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2446	,	PE203016000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2450	,	PE102016000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2451	,	PE102007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2452	,	PE503025000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2454	,	PE503061000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2456	,	PE304025000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2457	,	PE503025001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2458	,	PE503066002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2459	,	PE503051000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2460	,	PE503041000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2461	,	PE304012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2463	,	PE203014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2464	,	PE203002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2465	,	PE102003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2466	,	PE503069000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2467	,	PE503053000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2468	,	PE304030001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2469	,	PE304045000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2470	,	PE203012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2471	,	PE503058000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+2472	,	PE503028001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2473	,	PE503061001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2474	,	PE503062000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2475	,	PE203003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2476	,	PE503046000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2477	,	PE203001001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2478	,	PE304036000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+2479	,	PE304043000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2480	,	PE304002001	,	01	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2481	,	PE102008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2482	,	PE304012000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2483	,	PE203001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2484	,	PE203024000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2485	,	PE203006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2486	,	PE304022000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2487	,	PE304009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2488	,	PE304045000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2489	,	PE304001002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2490	,	PE304002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2491	,	PE304006000	,	00	,	04	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2493	,	PE203019000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2494	,	PE203005001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2496	,	PE304001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2497	,	PE304001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2498	,	PE304017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2499	,	PE203017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2500	,	PE102018000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2501	,	PE405010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2503	,	PE405017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2504	,	PE506005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2505	,	PE503030001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2506	,	PE304006000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2507	,	PE304032000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2508	,	PE405003000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2509	,	PE405012001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2510	,	PE506001001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2511	,	PE503031000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2513	,	PE503067001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2514	,	PE102017000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2515	,	PE405007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2516	,	PE405011000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2517	,	PE405011000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2518	,	PE506007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2521	,	PE503038000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2522	,	PE405013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2525	,	PE503039000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2527	,	PE304024000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2528	,	PE405001000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2529	,	PE405005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2530	,	PE503029000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2531	,	PE506003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2533	,	PE503044001	,	01	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2534	,	PE503056000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2535	,	PE503035000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2536	,	PE102023000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2537	,	PE203009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2538	,	PE405016002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2539	,	PE405012002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2540	,	PE506008001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2541	,	PE405003000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2542	,	PE503049000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2543	,	PE503047000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2544	,	PE304007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2546	,	PE304015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2547	,	PE304039000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2549	,	PE102007000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2550	,	PE203020000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2551	,	PE102026000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2553	,	PE503028000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2554	,	PE506008002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2555	,	PE203010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2556	,	PE304001004	,	04	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2557	,	PE102014000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2558	,	PE304034000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2559	,	PE503059000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2560	,	PE304022001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2561	,	PE503057000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2562	,	PE503002600	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2563	,	PE503066001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2564	,	PE503048000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2565	,	PE503045000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2566	,	PE503042000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+2567	,	PE503055000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2568	,	PE304023000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2569	,	PE503036000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2570	,	PE304030000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2571	,	PE503032000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2573	,	PE503067001	,	01	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2574	,	PE503067001	,	01	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2575	,	PE304029001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2576	,	PE405006000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2578	,	PE503034000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2579	,	PE503066000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2580	,	PE503027001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2581	,	PE503067000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2582	,	PE304040000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2583	,	PE503030000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2584	,	PE503033000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2585	,	PE405016001	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2586	,	PE405008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2587	,	SL100001001	,	01	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	3. Carbón mineral
+2588	,	PE102002001	,	01	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2590	,	PE102016000	,	00	,	03	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2593	,	PE102024000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2595	,	PE405002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2596	,	PE506001002	,	02	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2597	,	PE503037000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	1. Energía eléctrica
+2598	,	PE304026000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2599	,	PE102012001	,	01	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2600	,	PE102024000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2631	,	BO727005000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2632	,	BO727013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2633	,	BO727013000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2634	,	BO727013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2635	,	BO727005000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2638	,	BO727012000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2639	,	BO747001022	,	22	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2640	,	BO727001000	,	01	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2644	,	PE102009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2645	,	PE102017000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2646	,	BO272701100	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2647	,	BO727002000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	4. Carbón vegetal
+2648	,	BO727008000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2659	,	BO747001007	,	07	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2662	,	BO727013000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2663	,	BO727004000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2698	,	CO600532014	,	00	,	00	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2701	,	PE503027000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2704	,	PE102002000	,	00	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2707	,	PE304030000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2708	,	PE304042000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2709	,	PE503053000	,	00	,	01	,	02	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2752	,	BO747001021	,	21	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2753	,	BO727010000	,	00	,	02	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2758	,	BO727010000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2759	,	BO727009000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2766	,	BO727015000	,	00	,	01	,	01	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta
+2799	,	CO600938001	,	01	,	01	,	00	,	3.6 Combustible predominante para cocinar	,	6. Gas en cilindro o pipeta

@@ -1,0 +1,213 @@
+0012	,	BO407017000	,	00	,	04	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0030	,	BO410001000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	1. Administrador
+0031	,	BO410002000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	1. Administrador
+0035	,	BO641012000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0052	,	BO643001000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0058	,	BO642006000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0061	,	BO641001000	,	00	,	00	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0067	,	BO639042000	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0078	,	BO148999039	,	39	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0104	,	CO600532005	,	05	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0112	,	CO600984000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+0114	,	CO600996000	,	00	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+0122	,	CO600990008	,	08	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0148	,	CO600949000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	6. Cuidandero
+0163	,	CO600532010	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0168	,	FR300224024	,	24	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0190	,	FR300282002	,	02	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+0198	,	FR300280000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0199	,	FR300220000	,	00	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+0217	,	FR300101000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	2. Mayordomo
+0219	,	FR300222001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0226	,	FR300224003	,	04	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0233	,	FR300224006	,	07	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0245	,	FR300224055	,	55	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0258	,	FR300224002	,	02	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0272	,	FR300224044	,	44	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+0273	,	FR300224043	,	43	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0283	,	FR300222002	,	02	,	01	,	01	,	2.7.1 Trabajador	,	2. Mayordomo
+0289	,	FR300223007	,	07	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0293	,	FR300224004	,	04	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0294	,	FR300224004	,	04	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+0302	,	FR300282001	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0305	,	FR300224044	,	44	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0308	,	FR300224022	,	22	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0316	,	FR300224034	,	34	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0319	,	FR300224054	,	54	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0322	,	FR300224056	,	56	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0349	,	CO700550004	,	00	,	05	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0350	,	FR300225009	,	09	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0353	,	CO600971000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	2. Mayordomo
+0354	,	CO700550004	,	00	,	04	,	01	,	2.7.1 Trabajador	,	4. Jornalero
+0356	,	CO600992000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	1. Administrador
+0359	,	CO500529002	,	00	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+0366	,	CO700550004	,	00	,	02	,	03	,	2.7.1 Trabajador	,	3. Obrero agropecuario
+0367	,	CO700553000	,	01	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+0380	,	CO500525007	,	07	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0391	,	BO338010000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	1. Administrador
+0392	,	BO407013000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+0394	,	BO407013000	,	00	,	01	,	02	,	2.7.1 Trabajador	,	6. Cuidandero
+0395	,	BO407014000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+0396	,	BO410001000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+0401	,	BO338009000	,	00	,	02	,	02	,	2.7.1 Trabajador	,	1. Administrador
+0431	,	BO642019000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0435	,	BO643004000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0450	,	BO639052000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0457	,	BO639012000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	1. Administrador
+0461	,	BO639052001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0470	,	BO408001006	,	06	,	00	,	00	,	2.7.1 Trabajador	,	6. Cuidandero
+0497	,	BO639032000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0509	,	BO693038000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0543	,	FR300225002	,	02	,	01	,	02	,	2.7.1 Trabajador	,	1. Administrador
+0548	,	BO516001000	,	06	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+0560	,	BO520003008	,	08	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0587	,	BO410002000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	1. Administrador
+0591	,	BO408001002	,	02	,	00	,	00	,	2.7.1 Trabajador	,	1. Administrador
+0626	,	BO417006000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0644	,	BO516002000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	1. Administrador
+0674	,	BO205001002	,	02	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+0682	,	BO203002002	,	02	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0690	,	BO730008000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0714	,	BO613001000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0715	,	BO613001000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	1. Administrador
+0721	,	BO641012000	,	00	,	03	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0724	,	BO613007000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	1. Administrador
+0730	,	BO613008000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	4. Jornalero
+0734	,	BO613008000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0735	,	BO613002000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	7. No aplica
+0751	,	BO725009000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0760	,	BO725007000	,	00	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0772	,	BO417005000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0776	,	FR300224047	,	47	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0782	,	CO500525009	,	09	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0783	,	CO500525015	,	15	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0790	,	CO500525014	,	14	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0798	,	BO201001013	,	13	,	03	,	03	,	2.7.1 Trabajador	,	7. No aplica
+0805	,	CO500527005	,	05	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0807	,	CO500522001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+0814	,	CO500527015	,	15	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0815	,	CO700558000	,	04	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0822	,	BO622004000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	1. Administrador
+0864	,	BO203002006	,	06	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0875	,	BO203003002	,	01	,	01	,	03	,	2.7.1 Trabajador	,	7. No aplica
+0887	,	PE304002002	,	02	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0890	,	PE102013000	,	00	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+0904	,	PE506008000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0906	,	FR300224042	,	42	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+0909	,	PE102005000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+0921	,	PE304005000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	2. Mayordomo
+0932	,	CO500527014	,	14	,	14	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0933	,	CO700550004	,	00	,	04	,	02	,	2.7.1 Trabajador	,	4. Jornalero
+0949	,	CO500525013	,	13	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0950	,	BO417006000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0961	,	BO417013000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0968	,	BO641012000	,	00	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0977	,	BO516001000	,	07	,	00	,	00	,	2.7.1 Trabajador	,	1. Administrador
+0988	,	BO516001000	,	05	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+0993	,	BO516001000	,	08	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+0997	,	BO516002000	,	01	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+1216	,	BO728006000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1231	,	BO514002000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	1. Administrador
+1232	,	BO734001000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1233	,	BO734001000	,	00	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1338	,	BO724004000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1339	,	BO730007000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1417	,	BO514001008	,	08	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+1422	,	BO724001000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1429	,	BO206006001	,	01	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1439	,	BO725006000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1441	,	BO725001000	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1500	,	PE102001000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	7. No aplica
+1503	,	BO204016000	,	00	,	17	,	00	,	2.7.1 Trabajador	,	1. Administrador
+1507	,	BO204016000	,	00	,	06	,	12	,	2.7.1 Trabajador	,	7. No aplica
+1508	,	BO209001002	,	02	,	01	,	00	,	2.7.1 Trabajador	,	7. No aplica
+1546	,	BO728016000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1549	,	BO728009000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1551	,	BO726012000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1554	,	BO725012000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1555	,	BO725002000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1557	,	BO725021000	,	00	,	02	,	02	,	2.7.1 Trabajador	,	7. No aplica
+1558	,	BO725021000	,	00	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1592	,	PE203011000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	7. No aplica
+1594	,	PE203001000	,	00	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1596	,	PE405016003	,	03	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1598	,	PE203013000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1599	,	PE405015001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1816	,	BE100062016	,	16	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1826	,	BE100062017	,	17	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1832	,	BE100062014	,	14	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1834	,	BE100027000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1843	,	CO600935000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	1. Administrador
+1864	,	CO500528003	,	03	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1885	,	BE100080000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+1888	,	CO300517001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1916	,	CO300515002	,	02	,	33	,	11	,	2.7.1 Trabajador	,	6. Cuidandero
+1918	,	CO600998000	,	00	,	02	,	00	,	2.7.1 Trabajador	,	1. Administrador
+1947	,	BE100005001	,	01	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+1970	,	BE100033002	,	02	,	00	,	00	,	2.7.1 Trabajador	,	6. Cuidandero
+1976	,	BE100062013	,	13	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1978	,	BE100062015	,	15	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1988	,	BE100049001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+1994	,	BE100006002	,	02	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1995	,	BE100006001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+1996	,	BE100062027	,	27	,	01	,	01	,	2.7.1 Trabajador	,	3. Obrero agropecuario
+2211	,	BO725007000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2311	,	BO723005000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2341	,	BO204016000	,	00	,	16	,	00	,	2.7.1 Trabajador	,	1. Administrador
+2351	,	BO204016000	,	00	,	21	,	00	,	2.7.1 Trabajador	,	7. No aplica
+2383	,	BO417003000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2417	,	PE102022000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2418	,	PE304009001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2422	,	PE304045001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2436	,	PE304041000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2439	,	PE304040001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2440	,	PE304006000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2441	,	PE102023000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	1. Administrador
+2442	,	PE203014000	,	00	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+2447	,	PE304045002	,	02	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+2448	,	PE304011000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	1. Administrador
+2451	,	PE102007000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2462	,	PE304012000	,	00	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2463	,	PE203014000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2466	,	PE503069000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2481	,	PE102008000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2483	,	PE203001000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2484	,	PE203024000	,	00	,	03	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2500	,	PE102018000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2509	,	PE405012001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2510	,	PE506001001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2513	,	PE503067001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2514	,	PE102017000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2519	,	PE405009000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	6. Cuidandero
+2520	,	PE503069001	,	01	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2531	,	PE506003000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2536	,	PE102023000	,	00	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+2537	,	PE203009000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2541	,	PE405003000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2549	,	PE102007000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2550	,	PE203020000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2551	,	PE102026000	,	00	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+2561	,	PE503057000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2566	,	PE503042000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2569	,	PE503036000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2572	,	PE506004000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+2573	,	PE503067001	,	01	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+2574	,	PE503067001	,	01	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2576	,	PE405006000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2577	,	PE405004000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	1. Administrador
+2579	,	PE503066000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2587	,	SL100001001	,	01	,	01	,	00	,	2.7.1 Trabajador	,	1. Administrador
+2588	,	PE102002001	,	01	,	01	,	00	,	2.7.1 Trabajador	,	7. No aplica
+2589	,	PE102018000	,	00	,	01	,	00	,	2.7.1 Trabajador	,	7. No aplica
+2590	,	PE102016000	,	00	,	03	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2593	,	PE102024000	,	00	,	02	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2594	,	PE405002000	,	00	,	02	,	02	,	2.7.1 Trabajador	,	7. No aplica
+2595	,	PE405002000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2596	,	PE506001002	,	02	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2598	,	PE304026000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2599	,	PE102012001	,	01	,	01	,	02	,	2.7.1 Trabajador	,	7. No aplica
+2600	,	PE102024000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2646	,	BO272701100	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2655	,	BO209002000	,	00	,	00	,	00	,	2.7.1 Trabajador	,	7. No aplica
+2701	,	PE503027000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica
+2708	,	PE304042000	,	00	,	01	,	01	,	2.7.1 Trabajador	,	7. No aplica

@@ -1,0 +1,1348 @@
+0001	,	BO338005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0002	,	BO407017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0003	,	BO407017000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0004	,	BO338011000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0007	,	BO338010000	,	01	,	02	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0009	,	BO407015000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0011	,	BO407017000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0012	,	BO407017000	,	00	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0016	,	BO407009000	,	00	,	00	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0018	,	BO520003007	,	07	,	07	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0019	,	BO338006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0020	,	BO338008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0021	,	BO410000100	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	8. Termoacústica
+0022	,	BO407007000	,	00	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0024	,	BO338001000	,	01	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0025	,	BO408001005	,	05	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0027	,	BO338002000	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0030	,	BO410001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0031	,	BO410002000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0032	,	BO410000100	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0033	,	BO338007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0035	,	BO641012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0036	,	BO642017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0039	,	BO641002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0041	,	CO600991002	,	02	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0046	,	BO643023000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0047	,	BO641005000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0048	,	BO642018000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0049	,	BO643023000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0050	,	BO641019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0051	,	BO642004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0052	,	BO643001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0053	,	BO640001006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0054	,	BO642002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0055	,	BO643013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0058	,	BO642006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0059	,	BO641021000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0060	,	BO643022000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0061	,	BO641001000	,	00	,	00	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0062	,	BO639049000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0063	,	BO639045000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0065	,	BO639031000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0066	,	BO639052008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0067	,	BO639042000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0068	,	BO148999001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0071	,	BO148999000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0072	,	BO148999021	,	21	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0074	,	BO148999048	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0075	,	BO203002001	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0076	,	BO148999008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0077	,	BO148999024	,	24	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0078	,	BO148999039	,	39	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0079	,	BO148999043	,	43	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0080	,	BO148999009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0081	,	BO148999041	,	41	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0082	,	BO148999017	,	17	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0083	,	BO148999038	,	38	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0084	,	BO148999006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0086	,	BO148999051	,	51	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0087	,	BO148999037	,	37	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0088	,	bo148999004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0089	,	BO148999007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0092	,	BO148999002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0095	,	BO148999050	,	50	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0096	,	BO148999040	,	40	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0098	,	BO148999014	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0099	,	BO148999042	,	42	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0100	,	BO148999026	,	26	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0101	,	CO600967001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0102	,	CO500529003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0103	,	CO600990004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0104	,	CO600532005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0105	,	CO600990003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0106	,	CO600990005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0107	,	CO600990001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0108	,	CO600954000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0109	,	CO600941000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0110	,	CO600965002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0111	,	CO600967002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0112	,	CO600984000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0113	,	CO600990006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0114	,	CO600996000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0116	,	CO600532025	,	25	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0117	,	CO600970000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0118	,	CO600958000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0119	,	CO600990002	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0120	,	CO600974000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0121	,	CO600532002	,	02	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0122	,	CO600990008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0123	,	CO600941000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0124	,	CO600946000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0125	,	CO600985000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0126	,	CO600980000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0127	,	CO600953000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0128	,	CO600994002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0131	,	CO600939000	,	00	,	11	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0132	,	CO600969000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0133	,	CO600964000	,	00	,	11	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0134	,	CO600532003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0136	,	CO600532001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0137	,	CO600996001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0138	,	CO600938002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0139	,	CO600994001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0140	,	CO600996000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0141	,	CO600994003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0142	,	CO600966002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0143	,	CO600988000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0144	,	CO600987000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0146	,	CO600983000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0147	,	CO600532009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0148	,	CO600949000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0149	,	CO600965001	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0150	,	CO700562000	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0151	,	CO600966001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0152	,	CO600532004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0153	,	CO600532007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0155	,	CO600975000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0156	,	CO600991005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0157	,	CO600956000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0158	,	CO600991008	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0159	,	CO600532012	,	12	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0160	,	CO600991007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0161	,	CO600532008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0163	,	CO600532010	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0164	,	CO600532011	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0165	,	CO600539001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0166	,	FR300214002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0167	,	FR300224013	,	13	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0168	,	FR300224024	,	24	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0169	,	FR300224069	,	69	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0170	,	FR300214001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0171	,	PE304006000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0172	,	FR300214003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0173	,	FR300214006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0176	,	FR300214005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0177	,	FR300214008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0178	,	FR300214004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0179	,	FR300224089	,	89	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0180	,	FR300224011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0181	,	FR300214007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0182	,	FR300214007	,	07	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0183	,	FR300214001	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0184	,	FR300224033	,	33	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0185	,	FR300224065	,	65	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0186	,	FR300224089	,	89	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0187	,	FR300224099	,	99	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0188	,	FR300225004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0189	,	FR300223008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0190	,	FR300282002	,	02	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0191	,	FR300214000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0192	,	FR300224012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0193	,	FR300223008	,	08	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0194	,	FR300223010	,	10	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0195	,	FR300210002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0197	,	FR300279000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0198	,	FR300280000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0199	,	FR300220000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0201	,	FR300223003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0205	,	FR300242003	,	03	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0207	,	FR300242003	,	03	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0208	,	FR300242003	,	03	,	10	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0209	,	FR300242002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0210	,	FR300223009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0211	,	FR300223012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0212	,	FR300242001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0213	,	FR300242003	,	03	,	08	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0214	,	FR300242003	,	03	,	07	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0215	,	FR300223013	,	13	,	13	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0217	,	FR300101000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0218	,	FR300242003	,	03	,	11	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0219	,	FR300222001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0220	,	FR300222003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0221	,	FR300242003	,	03	,	06	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0222	,	FR300242003	,	03	,	06	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0223	,	FR300223017	,	17	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0224	,	FR300242003	,	03	,	12	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0225	,	FR300223018	,	18	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0226	,	FR300224003	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0227	,	FR300242003	,	05	,	05	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0228	,	FR300242003	,	00	,	15	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0229	,	FR300242003	,	03	,	09	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0230	,	FR300223004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0231	,	FR300242003	,	03	,	07	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0232	,	FR300224050	,	50	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0233	,	FR300224006	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0235	,	FR300224029	,	29	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0236	,	PE300224029	,	29	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0237	,	FR300224036	,	36	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0238	,	FR300224010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0240	,	FR300224053	,	53	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0241	,	FR300224006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0242	,	FR300224019	,	19	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0243	,	FR300224030	,	30	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0244	,	FR300224018	,	18	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0245	,	FR300224055	,	55	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0246	,	FR300224010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0247	,	FR300224027	,	27	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0248	,	FR300224040	,	40	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0249	,	FR300224063	,	63	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0250	,	FR300224061	,	61	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0251	,	FR300224017	,	17	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0252	,	FR300224026	,	26	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0253	,	FR300224039	,	39	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0254	,	FR300224001	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0255	,	FR300224028	,	28	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0256	,	FR300224049	,	49	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0257	,	FR300224058	,	58	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0258	,	FR300224002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0259	,	FR300224021	,	21	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0260	,	FR300224067	,	67	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0261	,	PE102004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0262	,	PE304019001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0263	,	FR300224103	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0264	,	FR300225003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0265	,	FR300225010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0266	,	FR300224046	,	46	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0267	,	FR300224048	,	48	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0268	,	PE405015002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0269	,	FR300224045	,	45	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0272	,	FR300224044	,	44	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0273	,	FR300224043	,	43	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0274	,	FR300224068	,	68	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0275	,	FR300224052	,	52	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0276	,	FR300224087	,	87	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0277	,	FR300223002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0278	,	FR300224098	,	98	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0279	,	FR300225006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0280	,	FR300225007	,	07	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0281	,	FR300223006	,	06	,	06	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0282	,	FR300223005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0283	,	FR300222002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0284	,	FR300223010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0285	,	FR300223020	,	20	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0286	,	FR300242003	,	03	,	11	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0287	,	FR300224051	,	51	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0288	,	FR300220000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0289	,	FR300223007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0290	,	FR300272000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0291	,	FR300223011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0292	,	FR300224001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0293	,	FR300224004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0294	,	FR300224004	,	04	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0295	,	FR300224041	,	41	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0296	,	FR300224072	,	72	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0297	,	FR300224037	,	37	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0298	,	FR300224077	,	77	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0299	,	FR300224104	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0300	,	FR300224057	,	57	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0301	,	FR300282002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0302	,	FR300282001	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0303	,	FR300281001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0304	,	FR300281003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0305	,	FR300224044	,	44	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0306	,	FR300281003	,	03	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0307	,	FR300223021	,	21	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0308	,	FR300224022	,	22	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0309	,	FR300210001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0310	,	FR300223019	,	19	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0311	,	FR300224020	,	20	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0312	,	FR300224072	,	72	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0313	,	PE300224032	,	32	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0314	,	FR300224097	,	97	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0315	,	FR300224016	,	16	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0316	,	FR300224034	,	34	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0317	,	FR300224016	,	16	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0318	,	FR300224035	,	35	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0319	,	FR300224054	,	54	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0320	,	FR300224059	,	59	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0321	,	FR300224073	,	73	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0322	,	FR300224056	,	56	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0323	,	FR300224071	,	71	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0324	,	FR300224106	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0325	,	FR300224091	,	91	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0326	,	FR300224094	,	94	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0327	,	FR300224075	,	75	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0330	,	CO600539004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0331	,	CO600539005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0334	,	CO600532028	,	28	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0335	,	CO600532020	,	20	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0336	,	CO600532024	,	24	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0338	,	CO700550004	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0339	,	CO500528002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0340	,	CO700550004	,	00	,	05	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0341	,	CO500529002	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0342	,	CO500527002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0345	,	CO600982000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0346	,	CO500525012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0347	,	CO700561000	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0348	,	CO700550004	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0349	,	CO700550004	,	00	,	05	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0350	,	FR300225009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0351	,	CO500527018	,	18	,	13	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0353	,	CO600971000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0354	,	CO700550004	,	00	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0355	,	CO500529001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0356	,	CO600992000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0358	,	CO600532013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0359	,	CO500529002	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0361	,	CO600532023	,	23	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0362	,	CO600532019	,	19	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0363	,	CO600532029	,	29	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0364	,	CO600532015	,	15	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0365	,	CO600532016	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0366	,	CO700550004	,	00	,	02	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0367	,	CO700553000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0368	,	CO600532027	,	27	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0369	,	CO500529002	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0370	,	CO600532018	,	18	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0371	,	CO600532017	,	17	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0372	,	CO500525005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0373	,	CO500527018	,	18	,	23	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0374	,	CO500527018	,	18	,	33	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0375	,	CO300518001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0376	,	CO600991004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0377	,	CO600991003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0379	,	BE100062034	,	34	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0380	,	CO500525007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0381	,	BO338009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0382	,	BO407001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0383	,	BO407001000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0384	,	BO407014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0385	,	BO407011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0386	,	BO407009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0389	,	BO407017000	,	00	,	01	,	05	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0390	,	BO407017000	,	00	,	06	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0392	,	BO407013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0394	,	BO407013000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0395	,	BO407014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0396	,	BO410001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0397	,	BO407004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0398	,	BO407003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0400	,	BO338009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0401	,	BO338009000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0402	,	BO410001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0403	,	BO410001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0404	,	BO338009000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0405	,	BO148999033	,	33	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0406	,	BO148999036	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0407	,	BO148999003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0409	,	BO148999027	,	21	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0414	,	BO148999022	,	22	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0416	,	BO148999044	,	44	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0417	,	BO148999052	,	52	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0419	,	BO148999020	,	20	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0423	,	BO148999046	,	46	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0427	,	BO148999053	,	53	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0428	,	BO148999076	,	76	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0430	,	BO643025000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0431	,	BO642019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0432	,	BO642011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0433	,	BO642014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0434	,	BO643008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0435	,	BO643004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0436	,	BO642010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0437	,	BO643011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0438	,	BO643018000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0439	,	BO643018000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0440	,	BO642015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0441	,	BO642005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0444	,	BO639052005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0446	,	BO639052004	,	04	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0447	,	BO643017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0448	,	BO639052008	,	08	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0449	,	BO641005000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0450	,	BO639052000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0453	,	BO148999018	,	18	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0456	,	BO639042000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0457	,	BO639012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0458	,	BI639046000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0459	,	BO639052000	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0461	,	BO639052001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0462	,	BO639047000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0464	,	BO622004000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0465	,	BO639022000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0466	,	BO410001000	,	00	,	08	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0470	,	BO408001006	,	06	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0472	,	BO201001011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0473	,	BO201001004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0475	,	BO206003002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0476	,	BO148999049	,	49	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0477	,	BO148999069	,	69	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0479	,	BO148999070	,	70	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0480	,	BO148999070	,	70	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0482	,	BO148999063	,	63	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0483	,	BO203003004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0486	,	BO148999064	,	64	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0487	,	BO338007000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0488	,	BO410001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0490	,	BO338007000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0491	,	BO338009000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0495	,	BO407007000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0496	,	BO520004002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0497	,	BO639032000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0498	,	BO639035000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0499	,	BO639020000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0500	,	BO639012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0501	,	BO639033000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0502	,	BO639023000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0503	,	BO639040000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0506	,	BO622005000	,	00	,	03	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0507	,	BO338009000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0509	,	BO693038000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0511	,	BO639025000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0512	,	BO642001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0514	,	BO622003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0515	,	BO639029000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0516	,	BO639016000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0518	,	BO639017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0520	,	BO639019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0521	,	BO639037000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0523	,	BO639021000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0524	,	BO639063000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0525	,	BO639041000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0526	,	PE203023000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0527	,	FR300224097	,	97	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0528	,	FR300224076	,	76	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0529	,	FR300224100	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0530	,	FR300224101	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0531	,	FR300224113	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0532	,	FR300224083	,	83	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0533	,	FR300224096	,	96	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0534	,	FR300224101	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0535	,	FR300225002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0536	,	FR300224083	,	83	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0537	,	FR300224090	,	90	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0538	,	FR300224109	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0540	,	FR300224094	,	94	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0541	,	FR300224080	,	80	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0542	,	FR300224105	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0543	,	FR300225002	,	02	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0544	,	FR300225011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0545	,	FR300334084	,	84	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0546	,	FR300224093	,	93	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0547	,	FR300224102	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0548	,	BO516001000	,	06	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0550	,	BO407013000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0551	,	BO338013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0552	,	BO407013000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0553	,	BO410002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0554	,	BO639052005	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0555	,	BO639052000	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0556	,	BO148999055	,	55	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0557	,	BO148999054	,	54	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0558	,	BO639052000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0559	,	BO639030000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0560	,	BO520003008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0561	,	BO639052000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0562	,	BO639050000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0563	,	BO639052000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0564	,	BO148999057	,	57	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0565	,	BO148999065	,	65	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0567	,	BO148999070	,	70	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0569	,	BO148999058	,	58	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0570	,	BO148999066	,	66	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0571	,	BO148999075	,	75	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0574	,	BO148999059	,	59	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0575	,	BO148999077	,	77	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0577	,	BO410001000	,	00	,	05	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0578	,	BO148999045	,	45	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0579	,	BO148999072	,	72	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0580	,	BO410001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0581	,	BO407016000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0582	,	BO338000000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0583	,	BO520003001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0584	,	BO410002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0585	,	BO410002000	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0586	,	BO410002000	,	01	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0587	,	BO410002000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0589	,	BO639018000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0590	,	BO639024000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0591	,	BO408001002	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0592	,	BO408001001	,	01	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0594	,	BO419002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0595	,	BO520003009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0596	,	BO520004006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0599	,	BO408001003	,	03	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0600	,	BO408001004	,	04	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0601	,	FR300225001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0602	,	FR300224074	,	74	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0603	,	FR300224114	,	14	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0604	,	FR300224013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0605	,	FR300224018	,	18	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0607	,	FR300224079	,	79	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0608	,	FR300221005	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0609	,	BO639029000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0611	,	BO613005000	,	04	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	7. Estructura del puente
+0612	,	BO849042000	,	17	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0613	,	BO849042000	,	30	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0614	,	BO613002000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0616	,	BO612005000	,	08	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0617	,	BO645005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0618	,	BO643009000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0622	,	BO643009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0623	,	BO613007000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0624	,	BO643009000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0626	,	BO417006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0628	,	BO417001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0629	,	BO417001000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0630	,	BO417001000	,	00	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0631	,	BO417011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0632	,	BO417008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0633	,	BO417002000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0635	,	BO229007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0636	,	BO520004009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0637	,	BO520003003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0638	,	BO520004014	,	14	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0641	,	BO417001000	,	00	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0642	,	BO417001000	,	00	,	04	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0643	,	BO520004008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0644	,	BO516002000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0649	,	BO641008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0650	,	BO639048000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0654	,	BO613010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0655	,	BO622012000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0662	,	BO206004001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0665	,	BO747001019	,	19	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0669	,	BO205001002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0670	,	BO206009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0671	,	BO205003003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0672	,	BO203001009	,	09	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0673	,	BO148999018	,	18	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0674	,	BO205001002	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0675	,	BO206003003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0676	,	BO737001015	,	15	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0677	,	BO206007001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0681	,	BO747001016	,	16	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0682	,	BO203002002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0683	,	BO747001014	,	14	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0684	,	BO737003004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0685	,	BO148999068	,	68	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0686	,	BO747001032	,	32	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0689	,	BO730001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0690	,	BO730008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0691	,	BO730003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0694	,	BO407009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0695	,	BO613003000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0696	,	BO613011000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0697	,	BO613004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0699	,	BO611003000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0700	,	BO611003000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0701	,	BO203001009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0703	,	BO203003003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0704	,	BO203002008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0708	,	BO203002013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0713	,	BO612005000	,	03	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0714	,	BO613001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0715	,	BO613001000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0716	,	BO613006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0717	,	BO645002000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0718	,	BO611001000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0719	,	BO643052000	,	03	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0721	,	BO641012000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0723	,	BO613005000	,	03	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0724	,	BO613007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0725	,	BO613007000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0726	,	BO613005000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0727	,	BO611003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0728	,	BO613004000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0729	,	BO611003000	,	01	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0730	,	BO613008000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0731	,	BO613005000	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0732	,	BO613009000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0733	,	BO613004000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0734	,	BO613008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0735	,	BO613002000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0736	,	BO737001022	,	22	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0740	,	BO730004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0743	,	BO516001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	8. Termoacústica
+0745	,	BO726001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0749	,	BO730007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0751	,	BO725009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0752	,	BO726005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0755	,	BO612002000	,	00	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0756	,	BO849042000	,	19	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0757	,	BO729004000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0758	,	BO729004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0759	,	BO726005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0762	,	BO514001009	,	09	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0763	,	BO730006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0765	,	BO611001000	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0766	,	BO611001000	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0769	,	BO613005000	,	05	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0770	,	BO613011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0771	,	BO613005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0772	,	BO417005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0773	,	BO514002000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0774	,	BO514001000	,	07	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0775	,	BO515001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0776	,	FR300224047	,	47	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0777	,	FR300242003	,	03	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0778	,	FR300224092	,	92	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0779	,	FR300224107	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0780	,	CO500527011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0781	,	CO500527004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0782	,	CO500525009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0783	,	CO500525015	,	15	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	7. Estructura del puente
+0784	,	CO500525013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0785	,	CO700556000	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0786	,	CO500525010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0787	,	CO500525001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0790	,	CO500525014	,	14	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0791	,	B0206010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0793	,	BO203003005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0794	,	BO206011002	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0795	,	BO205003001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0797	,	BO206011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0798	,	BO201001013	,	13	,	03	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0799	,	BO206009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0800	,	BO203002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0801	,	CO600957000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0802	,	CO600942000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0803	,	CO500525006	,	06	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0805	,	CO500527005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0806	,	CO500252011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0807	,	CO500522001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0810	,	BE100013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0811	,	CO300518002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0812	,	CO500527012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0813	,	CO500527013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0814	,	CO500527015	,	15	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0815	,	CO700558000	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0816	,	BO410001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0817	,	BO417015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0818	,	BO639008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0819	,	BO639012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0820	,	BO639028000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0823	,	BO622014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0825	,	BO622006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0826	,	BO639026000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0827	,	BO639026000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0828	,	BO645002000	,	02	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0829	,	BO639006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0830	,	BO639005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0832	,	BO639011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0834	,	BO639004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0835	,	BO639007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0836	,	BO639007000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0837	,	BO622005000	,	00	,	04	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0838	,	BO639052000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0840	,	BO622007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0841	,	BO520004012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0842	,	BO639007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0843	,	BO645002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0845	,	BO645002000	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0850	,	BO148999071	,	71	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0854	,	BO148999034	,	34	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0856	,	BO201001013	,	13	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0864	,	BO203002006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0865	,	BO206002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0867	,	BO206007000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0868	,	BO206003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0869	,	BO201001013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0871	,	BO203002003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0874	,	BO203003001	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0875	,	BO203003002	,	01	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0876	,	FR300224081	,	81	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0877	,	FR300224081	,	81	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0878	,	FR300225005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0880	,	FR300224078	,	78	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0881	,	FR300224086	,	86	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0882	,	FR300224108	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0883	,	FR300225006	,	06	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0884	,	FR300224112	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0885	,	FR300224025	,	25	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0886	,	FR300225008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0887	,	PE304002002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0888	,	FR300224095	,	95	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0889	,	FR300224110	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0890	,	PE102013000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0893	,	FR300224087	,	87	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0894	,	FR300225013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0895	,	FR300225007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0897	,	PE203021000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0898	,	PE304004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0899	,	PE203010000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0900	,	PE102013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0901	,	PE102013000	,	00	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0902	,	FR300224015	,	15	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0903	,	FR300224015	,	15	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0904	,	PE506008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0905	,	FR300224023	,	23	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0906	,	FR300224042	,	42	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0907	,	FR300224066	,	66	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0908	,	FR300224062	,	62	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0909	,	PE102005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0910	,	PE102015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0911	,	PE102012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0913	,	PE102012002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0914	,	PE102008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0915	,	PE203018000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0916	,	PE304037000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0917	,	PE102012001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0918	,	PE102011000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0919	,	PE503044000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+0921	,	PE304005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0922	,	FR300224007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0923	,	FR300224006	,	60	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0925	,	CO500527006	,	06	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0926	,	CO500525004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0927	,	CO600994000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0929	,	CO500527009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0930	,	CO600968000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0931	,	CO500527001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0932	,	CO500527014	,	14	,	14	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0933	,	CO700550004	,	00	,	04	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0934	,	CO500527003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0935	,	CO700560001	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0936	,	BE100062005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0937	,	be100062001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0939	,	FR300224085	,	85	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0940	,	CO600994004	,	04	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0941	,	CO600961000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0942	,	CO600962000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0943	,	CO600990009	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0944	,	CO600941000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0945	,	CO500522002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0946	,	CO500525002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0947	,	CO500525006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0948	,	CO500525005	,	05	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0949	,	CO500525013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0950	,	BO417006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0952	,	BO417007000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0953	,	BO417014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0954	,	BO520003006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0955	,	BO514001001	,	01	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0956	,	BO514001003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0957	,	BO514001002	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0958	,	BO514001003	,	03	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0959	,	BO417012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0961	,	BO417013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0962	,	BO639027000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0963	,	BO639043000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0964	,	BO622014000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0965	,	BO622006000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0966	,	BO622004000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0967	,	BO622003000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0968	,	BO641012000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0969	,	BO645002000	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0970	,	BO645002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0973	,	BO622011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0974	,	BO622004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0975	,	FR300224072	,	72	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0976	,	BO410003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0977	,	BO516001000	,	07	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0979	,	BO520004004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0980	,	BO407006000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0985	,	BO520003010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+0986	,	BO516001000	,	03	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0988	,	BO516001000	,	05	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0989	,	BO520004007	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+0990	,	BO520004004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0992	,	BO516001000	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0993	,	BO516001000	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+0994	,	BO520004001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+0996	,	BO516002000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0997	,	BO516002000	,	01	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+0999	,	BO410001000	,	00	,	00	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1000	,	BO520004011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1203	,	CO600998002	,	02	,	45	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1205	,	CO600976000	,	00	,	11	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1210	,	CO100506002	,	02	,	12	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1214	,	BO728003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1216	,	BO728006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1217	,	BO728022000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1218	,	BO728007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1219	,	BO724005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1221	,	BO725003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1224	,	BO728015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1226	,	BO728010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1227	,	BO723009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1229	,	BO728022000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1232	,	BO734001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1233	,	BO734001000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1237	,	BO514001009	,	09	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+1242	,	BO734004000	,	00	,	03	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1243	,	BO734004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1244	,	BO514001004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1247	,	BO730005000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1252	,	BO730005000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1258	,	BO730001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1259	,	BO730006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+1261	,	BO734002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1262	,	BO645002000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1278	,	BO734004000	,	00	,	05	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1279	,	BO734005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1326	,	BO724002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1327	,	BO728013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1328	,	BO723008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1330	,	BO728010000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1331	,	BO728021000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1332	,	BO728017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1333	,	BO725011000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1336	,	BO734003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1338	,	BO724004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1339	,	BO730007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1350	,	BO734007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1351	,	BO734007000	,	07	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1356	,	BO734004000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1358	,	BO730005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1409	,	BO521012000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1414	,	BO521007000	,	00	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1417	,	BO514001008	,	08	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1418	,	BO417001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1421	,	BO728019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1422	,	BO724001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1429	,	BO206006001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1430	,	BO148999029	,	29	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1431	,	BO737001008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1432	,	BO737001002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1433	,	BO737003003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1434	,	BO737001019	,	19	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1435	,	BO747001015	,	15	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1436	,	BO725008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1437	,	BO725008000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1438	,	BO725005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1439	,	BO725006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1440	,	BO725015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1441	,	BO725001000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1442	,	BO723006000	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1443	,	BO726009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1444	,	BO737001016	,	16	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1445	,	BO737001015	,	15	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1446	,	BO747001034	,	34	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1447	,	BO737001004	,	04	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1448	,	BO737001003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1451	,	BO747001033	,	33	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1452	,	BO737001017	,	17	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1454	,	BO726001000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1455	,	BO725010000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1456	,	BO737003001	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1457	,	BO737001020	,	20	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1458	,	BO747001011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1459	,	BO725010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1460	,	BO725014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1461	,	BO725014000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1463	,	BO725004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1464	,	BO725013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1465	,	BO726001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1466	,	BO726008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1467	,	BO725018000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1468	,	BO725018000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1469	,	BO725016000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1470	,	BO723003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1471	,	BO723007000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1472	,	BO723010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1475	,	BO728020000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1477	,	BO728008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1478	,	BO724002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1479	,	BO728012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1482	,	BO723006000	,	02	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1485	,	BO723010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1487	,	BO728001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1488	,	BO723004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1489	,	BO724005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1490	,	BO723006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1491	,	BO728005000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1494	,	BO724003000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1495	,	BO726011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1496	,	BO747001004	,	04	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1497	,	BO747001004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1498	,	BO747001001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1500	,	PE102001000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1501	,	BO204016000	,	00	,	23	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1502	,	BO737001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1503	,	BO204016000	,	00	,	17	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1504	,	BO747001011	,	11	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1505	,	BO209001002	,	02	,	02	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1506	,	BO209001002	,	02	,	03	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1507	,	BO204016000	,	00	,	06	,	12	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1508	,	BO209001002	,	02	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1510	,	BO206010000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1511	,	BO737001009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1512	,	BO747001036	,	36	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1513	,	BO747001008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1514	,	BO737003002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1515	,	BO209001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1516	,	BO203002007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1517	,	BO737001013	,	13	,	13	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1518	,	BO737003001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1519	,	BO737001014	,	14	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1520	,	BO209001002	,	02	,	04	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1523	,	BO747001017	,	17	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+1524	,	BO737001004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1525	,	BO737003006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1526	,	BO737003005	,	05	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1527	,	BO747001035	,	35	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1528	,	BO737001018	,	18	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1529	,	BO206004001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1530	,	BO203003006	,	06	,	02	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1531	,	BO204016000	,	00	,	15	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1532	,	BO203001003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1533	,	BO209001001	,	01	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1534	,	BO747001023	,	23	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+1535	,	BO747001009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1537	,	BO747001001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1538	,	BO737001007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1539	,	BO737001012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1540	,	BO747001011	,	11	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1541	,	BO723005000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1542	,	BO725017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1543	,	BO725019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1544	,	BO725017000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1545	,	BO726007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1546	,	BO728016000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1547	,	BO723002000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1548	,	BO724004000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1549	,	BO728009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1550	,	BO728014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1551	,	BO726012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1552	,	BO725005000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1553	,	BO725005000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1554	,	BO725012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1555	,	BO725002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1556	,	BO723007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1557	,	BO725021000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1558	,	BO725021000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1559	,	BO725011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1560	,	BO725003000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1561	,	BO723001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1562	,	BO725020000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1564	,	BO726006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1565	,	BO725001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1566	,	BO725004000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1568	,	BO726002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1575	,	PE304003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1584	,	BO747001028	,	28	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1586	,	BO737001005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1587	,	PE102001600	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1588	,	PE102015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1589	,	PE102015001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1591	,	PE203004001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1592	,	PE203011000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1594	,	PE203001000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1597	,	PE203008000	,	00	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1598	,	PE203013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1599	,	PE405015001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1801	,	BE100062026	,	26	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1802	,	BE100073000	,	00	,	06	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1803	,	BE100004001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1804	,	BE100073000	,	00	,	04	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1816	,	BE100062016	,	16	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1819	,	BE100062028	,	28	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1820	,	BE100062036	,	36	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1821	,	BE100062020	,	20	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1822	,	BE100062019	,	19	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1823	,	BE100049003	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1824	,	BE100062029	,	29	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1826	,	BE100062017	,	17	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1827	,	BE100016000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1829	,	BE100015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1830	,	BE100062008	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1832	,	BE100062014	,	14	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1833	,	BE100062007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1834	,	BE100027000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1835	,	BE100062031	,	31	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1836	,	CO500522001	,	01	,	11	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1843	,	CO600935000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1857	,	CO600991009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1861	,	CO500525008	,	08	,	88	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1864	,	CO500528003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	7. Estructura del puente
+1878	,	CO700557000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1880	,	CO600991006	,	01	,	11	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+1882	,	CO600986000	,	00	,	11	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1884	,	CO700557000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1888	,	CO300517001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1889	,	CO300517003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1890	,	CO600537000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1893	,	CO500527010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1894	,	CO700555000	,	03	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1895	,	CO700555000	,	02	,	08	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1901	,	BE100062007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1902	,	BE100062009	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1903	,	CO700559000	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1904	,	CO600972000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1909	,	BE100019000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1912	,	BE100024000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1916	,	CO300515002	,	02	,	33	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1918	,	CO600998000	,	00	,	02	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1931	,	BE100062002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1948	,	BE100062032	,	32	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1951	,	BE100073000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1952	,	BE100004002	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1953	,	BE100062006	,	06	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1954	,	BE100062003	,	03	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1955	,	BE100062035	,	35	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1956	,	BE100062023	,	23	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1957	,	BE100062024	,	24	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1958	,	BE100062022	,	22	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1959	,	BE100062021	,	21	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1960	,	BE100062033	,	33	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1962	,	CO600998000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1963	,	CO100506003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1964	,	CO100503000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1967	,	BE100073000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1968	,	BE100073000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1969	,	CO100011001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1970	,	BE100033002	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1971	,	BE100019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1972	,	CO600532002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1974	,	CO300516001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1976	,	BE100062013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1977	,	be100062004	,	04	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1978	,	BE100062015	,	15	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1979	,	BE100062010	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1980	,	BE100062012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1982	,	BE100049002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1984	,	CO300519000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1987	,	CO300517002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1988	,	BE100049001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1989	,	CO500522003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1990	,	CO300515001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1991	,	BE100062030	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1993	,	CO600978000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1994	,	BE100006002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+1995	,	BE100006001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+1996	,	BE100062027	,	27	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+1997	,	BE100062025	,	25	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+1998	,	BE100079000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2000	,	BE100073000	,	00	,	05	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2202	,	BO728019000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2211	,	BO725007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2213	,	BO792900100	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2215	,	BO729002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2220	,	BO515003000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2221	,	BO729009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2223	,	BO729002000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2226	,	BO730001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2228	,	BO533001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2229	,	BO729003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2234	,	BO613003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2235	,	BO849042000	,	37	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2236	,	BO849042000	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2237	,	BO849042000	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2238	,	BO849042000	,	26	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2239	,	BO849042000	,	09	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2240	,	BO849042000	,	32	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2244	,	BO642018000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2246	,	BO849042000	,	10	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2247	,	BO849042000	,	18	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2248	,	BO611001000	,	03	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2249	,	BO849042000	,	35	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2250	,	BO849042000	,	28	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2251	,	BO849042000	,	08	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2253	,	BO849042000	,	27	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2256	,	BO849042000	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2257	,	BO849042000	,	22	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2258	,	BO849042000	,	41	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2260	,	BO612005000	,	02	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+2261	,	BO849042000	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2262	,	BO849904200	,	23	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2263	,	BO849042000	,	34	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2264	,	BO849042000	,	34	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2265	,	BO612001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2266	,	BO849042000	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2267	,	BO849042000	,	40	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2268	,	BO849042000	,	40	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2271	,	BO849042000	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2275	,	BO639034000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2276	,	BO849042000	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2277	,	BO849042000	,	16	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2278	,	BO849042000	,	25	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2279	,	BO849042000	,	29	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2280	,	BO622003000	,	00	,	11	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2286	,	BO419004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2295	,	BO521012000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+2296	,	BO521003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2297	,	BO521002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+2299	,	BO419005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2300	,	BO729004000	,	00	,	03	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2301	,	BO612002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2302	,	BO643002000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2303	,	BO611003000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2306	,	BO373003005	,	05	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2307	,	BO643002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2308	,	BO622003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2309	,	BO725022000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2310	,	BO643011000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2311	,	BO723005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2312	,	BO642006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2313	,	BO622015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2314	,	BO849042000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2317	,	BO612005000	,	05	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2322	,	BO643010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2323	,	BO612005000	,	04	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2324	,	BO622003000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2325	,	BO613005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2327	,	BO205003011	,	11	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2328	,	BO747001013	,	13	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2329	,	BO204016000	,	00	,	28	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2331	,	BO204016000	,	00	,	06	,	11	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2332	,	BO204016000	,	00	,	06	,	13	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2333	,	BO204016000	,	00	,	06	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2334	,	BO206011000	,	00	,	01	,	04	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2335	,	BO204016000	,	00	,	10	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2336	,	BO204016000	,	00	,	28	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2337	,	BO202004000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2338	,	BO204016000	,	00	,	06	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2339	,	BO204016000	,	00	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2340	,	BO203003006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2341	,	BO204016000	,	00	,	16	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2345	,	BO204016000	,	00	,	24	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2346	,	BO204016000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2348	,	BO737001011	,	11	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2349	,	BO747001031	,	31	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2350	,	BO747001025	,	25	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+2351	,	BO204016000	,	00	,	21	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2352	,	BO747001020	,	20	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+2353	,	BO202006000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2354	,	BO202006000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2356	,	BO204016000	,	00	,	11	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2362	,	BO202005000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2364	,	BO202007000	,	00	,	02	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2368	,	BO737001006	,	06	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2369	,	BO747001027	,	27	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2370	,	BO747001012	,	12	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2371	,	BO521009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2372	,	BO419002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2373	,	BO521009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2375	,	BO417010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2376	,	BO521004000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2379	,	BO521005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2380	,	BO521005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2382	,	BO521011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2383	,	BO417003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2385	,	BO419003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2386	,	BO521001000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2391	,	BO521010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2392	,	BO419002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2393	,	BO521004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2397	,	BO521004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2398	,	BO520004010	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2401	,	PE304001001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2402	,	PE304002004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2403	,	PE304010000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2404	,	PE304028000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2405	,	PE203021000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+2406	,	PE304028000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2407	,	PE203024000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2408	,	PE203024000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2409	,	PE304027000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2410	,	PE304027000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2411	,	PE304001003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2412	,	PE203022000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2413	,	PE102025000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2414	,	PE102025500	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2415	,	PE203022000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2416	,	PE304009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2417	,	PE102022000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2418	,	PE304009001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2419	,	PE203005000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2420	,	PE102021000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2421	,	PE102021000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2422	,	PE304045001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2423	,	PE304019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2424	,	PE304014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2425	,	PE203007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2427	,	PE503050000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2428	,	PE503040000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2429	,	PE503034000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2430	,	PE304020000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2431	,	PE304044000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2432	,	PE304008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2433	,	PE304033000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2434	,	PE304035000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2435	,	PE304002003	,	03	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2436	,	PE304041000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2437	,	PE304016000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2438	,	PE304018000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2439	,	PE304040001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2440	,	PE304006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2441	,	PE102023000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2442	,	PE203014000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2443	,	PE102011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2444	,	PE102006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2445	,	PE203004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2446	,	PE203016000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2450	,	PE102016000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2451	,	PE102007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2452	,	PE503025000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2453	,	PE503064000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2454	,	PE503061000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2456	,	PE304025000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2457	,	PE503025001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2458	,	PE503066002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2459	,	PE503051000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2460	,	PE503041000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2461	,	PE304012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2462	,	PE304012000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2463	,	PE203014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2464	,	PE203002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2465	,	PE102003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2466	,	PE503069000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2467	,	PE503053000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2468	,	PE304030001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2469	,	PE304045000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2470	,	PE203012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2471	,	PE503058000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2472	,	PE503028001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2473	,	PE503061001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2474	,	PE503062000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2475	,	PE203003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2476	,	PE503046000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+2477	,	PE203001001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2478	,	PE304036000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2479	,	PE304043000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2480	,	PE304002001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2481	,	PE102008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2482	,	PE304012000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2483	,	PE203001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2484	,	PE203024000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2485	,	PE203006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2486	,	PE304022000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2487	,	PE304009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2488	,	PE304045000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2489	,	PE304001002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2490	,	PE304002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2491	,	PE304006000	,	00	,	04	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2493	,	PE203019000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2494	,	PE203005001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2496	,	PE304001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2497	,	PE304001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2498	,	PE304017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2499	,	PE203017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2500	,	PE102018000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2501	,	PE405010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2503	,	PE405017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	6. Plástico
+2504	,	PE506005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2505	,	PE503030001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2506	,	PE304006000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2507	,	PE304032000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2508	,	PE405003000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2509	,	PE405012001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2510	,	PE506001001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2511	,	PE503031000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2512	,	PE503031001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2513	,	PE503067001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2514	,	PE102017000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2515	,	PE405007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2516	,	PE405011000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2517	,	PE405011000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2518	,	PE506007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2519	,	PE405009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2520	,	PE503069001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2521	,	PE503038000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2522	,	PE405013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2525	,	PE503039000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2527	,	PE304024000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2528	,	PE405001000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2529	,	PE405005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2530	,	PE503029000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2531	,	PE506003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2533	,	PE503044001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2534	,	PE503056000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2535	,	PE503035000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2536	,	PE102023000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2537	,	PE203009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2538	,	PE405016002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2539	,	PE405012002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2540	,	PE506008001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2541	,	PE405003000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2542	,	PE503049000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2543	,	PE503047000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2544	,	PE304007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2545	,	PE203008000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2546	,	PE304015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2547	,	PE304039000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2548	,	PE304039000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2549	,	PE102007000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2550	,	PE203020000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2551	,	PE102026000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2553	,	PE503028000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2554	,	PE506008002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2555	,	PE203010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2556	,	PE304001004	,	04	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2557	,	PE102014000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2558	,	PE304034000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2559	,	PE503059000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2560	,	PE304022001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2561	,	PE503057000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	5. Palma, otros vegetales
+2562	,	PE503002600	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2563	,	PE503066001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2564	,	PE503048000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2565	,	PE503045000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2566	,	PE503042000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2567	,	PE503055000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2568	,	PE304023000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2569	,	PE503036000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2570	,	PE304030000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2571	,	PE503032000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2573	,	PE503067001	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2574	,	PE503067001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2575	,	PE304029001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2576	,	PE405006000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2577	,	PE405004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2578	,	PE503034000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2579	,	PE503066000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2580	,	PE503027001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2581	,	PE503067000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2582	,	PE304040000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2583	,	PE503030000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2584	,	PE503033000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2585	,	PE405016001	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2586	,	PE405008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2587	,	SL100001001	,	01	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2588	,	PE102002001	,	01	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2589	,	PE102018000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2590	,	PE102016000	,	00	,	03	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2593	,	PE102024000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2594	,	PE405002000	,	00	,	02	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2595	,	PE405002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2596	,	PE506001002	,	02	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2597	,	PE503037000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2598	,	PE304026000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2599	,	PE102012001	,	01	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2600	,	PE102024000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2631	,	BO727005000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2632	,	BO727013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2633	,	BO727013000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2634	,	BO727013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2635	,	BO727005000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2638	,	BO727012000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2639	,	BO747001022	,	22	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2640	,	BO727001000	,	01	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2644	,	PE102009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2645	,	PE102017000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2646	,	BO272701100	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2647	,	BO727002000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2648	,	BO727008000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2649	,	BO747001031	,	31	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2651	,	BO737003001	,	01	,	01	,	04	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2653	,	BO737003001	,	01	,	01	,	03	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2655	,	BO209002000	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2659	,	BO747001007	,	07	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2661	,	BO727003001	,	01	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2662	,	BO727013000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2663	,	BO727004000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2698	,	CO600532014	,	00	,	00	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2701	,	PE503027000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2704	,	PE102002000	,	00	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2707	,	PE304030000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2708	,	PE304042000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	4. Zinc
+2709	,	PE503053000	,	00	,	01	,	02	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2752	,	BO747001021	,	21	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2753	,	BO727010000	,	00	,	02	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2758	,	BO727010000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	1. Concreto
+2759	,	BO727009000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	3. Teja de barro
+2766	,	BO727015000	,	00	,	01	,	01	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
+2799	,	CO600938001	,	01	,	01	,	00	,	3.8 Material predominante del techo de la vivienda o edificación	,	2. Teja "eternit"
